@@ -22,9 +22,9 @@
 {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
 <div class="card-body">
 {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
-{% if include.btn-link %}<a class="btn btn-primary btn-lg" href="{{ include.btn-link }}">{{ include.btn-text }}</a>{% endif %}
 <div class="card-text">
 {{ include.text | markdownify }}
 </div>
+{% if include.btn-link %}<a class="btn btn-primary btn-lg" href="{{ include.btn-link }}">{{ include.btn-text }}</a>{% endif %}
 </div>
 </div>

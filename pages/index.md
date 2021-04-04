@@ -28,6 +28,9 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 
 {% include card.html text="Pictures of rooms and their prices" header="Rooms and Prices" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" %}
 
+</div>
+<div class="row mt-5 justify-content-center">
+
 {% include card.html text="how to get to Banana" header="Hostel Location" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858603/hostel-location/close_up_hostel_map_khfm7j.png" %}
 
 {% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" %}

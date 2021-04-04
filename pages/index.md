@@ -38,6 +38,13 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 
 <div class="col-sm-6">
   
-{% include card.html text="Some interesting text3" header="Example card3" width="75" %}
+{% include card.html text="Some interesting text3" header="Example card3" width="25" %}
+
+</div>
+
+
+<div class="col-sm-6">
+  
+{% include card.html text="how to get to Banana" header="Hostel Location" width="25" %}
 
 </div>

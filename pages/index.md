@@ -40,11 +40,11 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 </div>
 
 <div class="col-sm-3">
-{% include card.html text="Pictures of rooms and their prices" header="Rooms and Prices" width="25" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" %}
+{% include card.html text="Pictures of rooms and their prices" header="Rooms and Prices" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" %}
 </div>
 
 <div class="col-sm-3">
-{% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" width="25" %}
+{% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" %}
 </div>
 
 </div>

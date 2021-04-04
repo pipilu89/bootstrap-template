@@ -22,4 +22,4 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 
 ## Hostel Photos
 
-{% include cloudinary-gallerywidget.html %}
+{% include cloudinary-gallerywidget.html gallerytag="hostel-property" %}

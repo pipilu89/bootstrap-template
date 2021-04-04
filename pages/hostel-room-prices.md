@@ -2,7 +2,6 @@
 title: Hostel Room and Prices
 nav: Rooms
 nav_order: 3
-gallerytag: hostel-rooms
 ---
 
 All of Haikou Banana Hostel's rooms include：
@@ -34,4 +33,4 @@ Chinese National October Holiday: October 1st - 7th.
 
 ### Image Gallery For Hostel rooms
 
-{% include cloudinary-gallerywidget.html %}
+{% include cloudinary-gallerywidget.html gallerytag="hostel-rooms"%}

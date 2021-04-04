@@ -37,18 +37,9 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
   
 {% include card.html text="Some interesting text" header="Example card" width="33" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" %}
 
-  
 {% include card.html text="Some interesting text2" header="Example card2" width="33" %}
 
-</div>
-
-<div class="col-sm-12">
-  
 {% include card.html text="Some interesting text3" header="Rooms and Prices" width="25" %}
 
-</div>
-
-
-<div class="col-sm-6">
 {% include card.html text="how to get to Banana" header="Hostel Location" width="25" %}
 </div>

@@ -70,10 +70,10 @@ Hotline：+86 898-66663066
 14. 灵山中心小学Lingshan Central Primary School
 15. **美兰机场 Meilan Airport**
 
-![Haikou bus k4 route](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858469/hostel-location/bus_K4en_iinemt.jpg)
+![Haikou bus k4 route](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858469/hostel-location/bus_K4en_iinemt.jpg){:.img-fluid}
 
 
-![Haikou bus k4 Renmin tianqiao](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858494/hostel-location/renmin_tianqiao_to_hostel_bsea6e.png)
+![Haikou bus k4 Renmin tianqiao](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858494/hostel-location/renmin_tianqiao_to_hostel_bsea6e.png){:.img-fluid}
 
 #### Airport Bus Line 4 Info:
 
@@ -129,4 +129,4 @@ Detailed directions:
 
 Taxi: 25 RMB around 30 minutes.
 
-![Haikou train station map](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858559/hostel-location/Haikou-East-map_p1yspv.png)
+![Haikou train station map](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858559/hostel-location/Haikou-East-map_p1yspv.png){:.img-fluid}

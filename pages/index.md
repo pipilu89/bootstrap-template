@@ -9,8 +9,6 @@ Welcome to the Haikou Banana Hostel Website. Book a room directly with us and pa
 
 We are a family run hostel in Haikou City, which is the capital of Hainan Island. Our hostel has both dormitory beds and private rooms. All rooms have a private bathroom with shower, air-conditioning and free wi-fi. We are located in a convienent area of Haikou City, close to Hainan University.
 
-![hostel entrance](https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg)
-
 The hostel:
 
 - ground floor is a communal area with TV lounge
@@ -42,5 +40,11 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 
 {% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" width="25" %}
 
-{% include card.html text="how to get to Banana" header="Hostel Location" width="25" %}
+</div>
+
+## Hainan Travel Guides
+
+<div class="row mt-5 justify-content-center">
+{% include card.html text="Haikou city travel info" header="Haikou" width="25" %}
+{% include card.html text="Guide to the resst of Hainan Island" header="Hainan" width="25" %}
 </div>

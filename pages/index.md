@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 
 {% include jumbotron.html title=site.title lead="How to get to Banana Hostel" btn-text="Learn More" btn-link="hostel-location.html" %}

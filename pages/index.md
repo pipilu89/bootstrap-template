@@ -48,6 +48,9 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 ## Hainan Travel Guides
 
 <div class="row mt-5 justify-content-center">
+  
 {% include card.html text="Haikou city travel info" header="Haikou" width="25" %}
+
 {% include card.html text="Guide to the resst of Hainan Island" header="Hainan" width="25" %}
+
 </div>

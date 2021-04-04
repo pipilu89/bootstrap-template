@@ -8,11 +8,13 @@
     - "text" = main card text, can use markdown formatting. Use a Liquid capture to add more complex content.
     - "header" = card header text (in bar above card content)
     - "title" = card title text inside card content area
-    - "img" = give filename of image in your "images" folder, will create a card cap image
+    - "img" = give url of image
     - "alt" = alt text for image
     - "width" = will use responsive sizing to set the % size on desktop (will be 100% on mobile), choose from "25", "50", "75", or "100"
     - "float"  = will use responsive float utility to add float on desktop (will not float on mobile), choose from "left" or "right"
     - "centered" = give "true" to add mx-auto class on the card to center it (don't use with float!)
+    - "btn-text" = text for button link, be sure to include btn-link
+    - "btn-link" = href for button, be sure to include btn-text 
 
 {%- endcomment -%}
 <div class="card mb-3 mx-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}" style="width: 18rem;">
@@ -20,6 +22,7 @@
 {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
 <div class="card-body">
 {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
+{% if include.btn-link %}<a class="btn btn-primary btn-lg" href="{{ include.btn-link }}">{{ include.btn-text }}</a>{% endif %}
 <div class="card-text">
 {{ include.text | markdownify }}
 </div>

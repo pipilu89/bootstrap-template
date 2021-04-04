@@ -16,7 +16,7 @@ Make sure you are on the same side of the road as the EverBright Bank. Stand out
 > If facing the supermarket, Haikou Banana Hostel is down the alley on the left side. Go behind the supermarket, through the carpark and we are the second building on the left hand side.
 
 ![Haikou hostel location map](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616858603/hostel-location/close_up_hostel_map_khfm7j.png)
-{:.img .img-fluid}
+{:.img-fluid}
 
 ### Video of Directions To Banana
 

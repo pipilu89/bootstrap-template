@@ -1,18 +1,23 @@
 ---
-title: About This Template
+title: Intro to Haikou Banana Hostel
 nav: About
 nav_order: 2
+gallerytag: hostel-property
 ---
 
-[bootstrap-template](https://github.com/thecdil/bootstrap-template) is a basic template repository to create a [Bootstrap](https://getbootstrap.com/) site using Jekyll on GitHub Pages (or where every you want to host it). 
-The layout is based on the [Bootstrap starter template example](https://getbootstrap.com/docs/4.5/examples/) with a navbar, search box (using lunr.js), and sticky footer.
-It is intended as a quick starting point for creating new web projects.
+We are a family run hostel in Haikou City, which is the capital of Hainan Island. Our hostel has both dormitory beds and private rooms. All rooms have a private bathroom with shower, air-conditioning and free wi-fi. We are located in a convienent area of Haikou City, close to Hainan University.
 
-The basic steps for using bootstrap-template are: 
+The hostel:
 
-1. create repository from the template
-2. edit _config.yml
-3. edit content pages
-4. use customization options
+- ground floor is a communal area with TV lounge
+- pool table
+- garden
+- English book exchange (around 400 books)
+- wi-fi
+- and free bike rental.
 
-See [docs/create-website.md](https://github.com/thecdil/bootstrap-template/blob/main/docs/create-website.md) for details!
+We also stock a selection of drinks.
+
+On this website you can find directions to the Haikou Banana Hostel and book a room. We have also put together some information and photos for you about Haikou and Hainan Island.
+
+{% include cloudinary-gallerywidget.html %}

@@ -22,7 +22,7 @@ We also stock a selection of drinks.
 
 On this website you can find directions to the Haikou Banana Hostel and book a room. We have also put together some information and photos for you about Haikou and Hainan Island.
 
-<div class="row">
+<div class="row mt-5 justify-content-center">
   <div class="card mb-3" >
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" class="card-img-top" alt="hostel entrance">
   <div class="card-body">

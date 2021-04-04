@@ -17,11 +17,12 @@ gallerytag: hostel-rooms
 All of Haikou Banana Hostel's rooms include：
 
 > Private sink, toilet & shower
-WiFi
-Air-con
-Flat screen TV (not including Dorm)
-Window
-24 hour hot water.
+> WiFi
+> Air-con
+> Flat screen TV (not including Dorm)
+> Window
+> 24 hour hot water.
+{:.blockquote}
 
 We have both Western and Chinese style toilets. If you require anything different to the above options please let us know and we'll do our best to accommodate your needs. 
 

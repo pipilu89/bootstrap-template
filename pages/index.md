@@ -24,13 +24,10 @@ We also stock a selection of drinks.
 
 On this website you can find directions to the Haikou Banana Hostel and book a room. We have also put together some information and photos for you about Haikou and Hainan Island.
 
-<div class="col-sm-6">
+<div class="row mt-5 justify-content-center">
   
 {% include card.html text="Some interesting text" header="Example card" width="25" %}
 
-</div>
-
-<div class="col-sm-6">
   
 {% include card.html text="Some interesting text2" header="Example card2" width="25" %}
 
@@ -38,7 +35,7 @@ On this website you can find directions to the Haikou Banana Hostel and book a r
 
 <div class="col-sm-6">
   
-{% include card.html text="Some interesting text3" header="Example card3" width="25" %}
+{% include card.html text="Some interesting text3" header="Rooms and Prices" width="25" %}
 
 </div>
 

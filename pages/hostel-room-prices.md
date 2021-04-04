@@ -9,9 +9,9 @@ gallerytag: hostel-rooms
 | --- | --- |---|
 | single room - 1 single bed. | 98rmb | ![single room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906829/hostel-rooms/Single-room_bbigee.jpg) |
 | dorm - 1 dorm bed in shared room. | 50rmb | ![dorm room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906780/hostel-rooms/male_dorm_room_bafwht.jpg) |
-| double room - 1 big bed. | 120rmb | ![double room](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906884/hostel-rooms/double_room_xnmjo9.jpg) |
-| twin room - 2 single beds.| 120rmb | ![twin room](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg) |
-| triple room - 3 single beds.| 168rmb | ![triple room](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906936/hostel-rooms/triple_room_p1xvm9.jpg) |
+| double room - 1 big bed. | 120rmb | ![double room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906884/hostel-rooms/double_room_xnmjo9.jpg) |
+| twin room - 2 single beds.| 120rmb | ![twin room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg) |
+| triple room - 3 single beds.| 168rmb | ![triple room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906936/hostel-rooms/triple_room_p1xvm9.jpg) |
 
 All of Haikou Banana Hostel's rooms include：
 

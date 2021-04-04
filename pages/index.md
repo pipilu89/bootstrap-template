@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-{% include jumbotron.html title=site.title lead="How to get to Banana Hostel" btn-text="Learn More" btn-link="hostel-location.html" %}
+{% include jumbotron.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" title=site.title lead="How to get to Banana Hostel" btn-text="Learn More" btn-link="hostel-location.html" %}
 
 Welcome to the Haikou Banana Hostel Website. Book a room directly with us and pay no booking fees or deposit! 
 

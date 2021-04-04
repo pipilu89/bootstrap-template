@@ -13,7 +13,7 @@ All of Haikou Banana Hostel's rooms include：
 - Flat screen TV (not including Dorm)
 - Window
 - 24 hour hot water.
-- 
+
 
 | Room type | Price | Picture |
 | --- | --- |---|

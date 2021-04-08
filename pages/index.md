@@ -33,7 +33,7 @@ Welcome to the Haikou Banana Hostel Website.
 </div>
 
 
-<div class="row mt-5 justify-content-center">
+<div class="row mt-5 col-lg-4 d-flex align-items-stretch">
   
 {% include card.html text="Cycling is popular in Hainan, here you can find out more about cycle routes and bike rental etc." header="Cycling in Hainan" width="25" btn-text="Learn More" btn-link="cycling.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg" %}
 

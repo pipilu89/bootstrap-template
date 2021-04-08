@@ -28,6 +28,15 @@ Welcome to the Haikou Banana Hostel Website.
   
 {% include card.html text="Haikou city travel info" header="Haikou" width="25" btn-text="Learn More" btn-link="hostel-location.html" %}
 
-{% include card.html text="Guide to the resst of Hainan Island" header="Hainan" width="25" btn-text="Learn More" btn-link="hostel-location.html" %}
+{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" width="25" btn-text="Learn More" btn-link="hostel-location.html" %}
+
+</div>
+
+
+<div class="row mt-5 justify-content-center">
+  
+{% include card.html text="Cycling is popular in Hainan, here you can find out more about cycle routes and bike rental etc." header="Cycling in Hainan" width="25" btn-text="Learn More" btn-link="cycling.html" %}
+
+{% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" width="25" btn-text="Learn More" btn-link="get-to-hainan.html" %}
 
 </div>

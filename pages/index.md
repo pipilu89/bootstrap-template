@@ -16,7 +16,7 @@ Welcome to the Haikou Banana Hostel Website.
 </div>
 <div class="row mt-5 justify-content-center">
 
-{% include card.html text="how to get to Banana" header="Hostel Location" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9/v1616858603/hostel-location/close_up_hostel_map_khfm7j.png" btn-text="Learn More" btn-link="hostel-location.html" %}
+{% include card.html text="how to get to Banana" header="Hostel Location" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1616858603/hostel-location/close_up_hostel_map_khfm7j.png" btn-text="Learn More" btn-link="hostel-location.html" %}
 
 {% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" btn-text="Learn More" btn-link="book.html" %}
 

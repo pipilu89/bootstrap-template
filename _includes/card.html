@@ -17,7 +17,7 @@
     - "btn-link" = href for button, be sure to include btn-text 
 
 {%- endcomment -%}
-<div class="card mb-3 mx-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}" style="width: 18rem;">
+<div class="card mb-3 mx-3 shadow {% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}" style="width: 18rem;">
 {% if include.img %}<img class="card-img-top" src="{{ include.img }}" alt="{{ include.alt | default: 'Card image' }}">{% endif %}
 {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
 <div class="card-body">

@@ -19,7 +19,7 @@ Wonder along HaiDian river and see the local traditional wooden fishing boats. H
 
 ## Food
 
-### Hainan University south gate street food 
+#### Hainan University south gate street food 
 
 If you like to try different street food, you will enjoy this place. Lots of choices of food from all around China. Very affordable.
 
@@ -48,11 +48,11 @@ Haikou City has 4 main beach areas:
 - Baishamen Beach (白沙门海滩 Báishāmén hǎitān)
 - Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)
 
-### Map of Haikou's Beaches
+#### Map of Haikou's Beaches
 
 ![Map of Haikou's Beaches](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617951418/haikou/beaches/map-haikou-beaches_sg0rwj.png)
 
-### Holiday Beach (假日海滩 Jiàrì hǎitān)
+#### Holiday Beach (假日海滩 Jiàrì hǎitān)
 
 To the west of Haikou city, Holiday Beach stretches for over 10km. This is the main beach in Haikou. In the summer we suggest visiting in the late afternoon to avoid the mid-day heat and staying until after sunset. The central area attracts a lot of locals in late afternoon, but it is easy to escape the crowds, if you wish, by walking a bit further down the beach.
 
@@ -64,11 +64,11 @@ To the west of the main entrance there are volley ball nets and an outdoor BBQ a
 
 {% include cloudinary-gallerywidget.html gallerytag="haikou-holiday-beach" %}
 
-### Xixiu Beach (西秀海滩 Xixiù hǎitān)
+#### Xixiu Beach (西秀海滩 Xixiù hǎitān)
 
 Closer to the west of Haikou city is Xixiu Beach, which 1-2km further west becomes Holiday Beach. The Hainan Windsurfing and Sailing Association has equipment for rent on Xixiu Beach.
 
-### Baishamen Beach (白沙门海滩 Báishāmén hǎitān)
+#### Baishamen Beach (白沙门海滩 Báishāmén hǎitān)
 
 On the north coast of Haidian Island (in the north of Haikou, near to the Haikou Banana Hostel) is Baishamen Park and Beach. The beach is about 1km long and next to where part of the Nandu River reaches the sea. The area was re-landscaped in 2010-2011.
 
@@ -87,7 +87,7 @@ On the north coast of Haidian Island (in the north of Haikou, near to the Haikou
         myGallery.render(); 
 </script>
 
-### Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)
+#### Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)
 
 To the east of Haikou is the beach area of Guilinyang. This is a quieter place than Holiday beach. The best area of Guilinyang beach is probably around the Crown Plaza hotel.
 
@@ -99,7 +99,7 @@ There are more and more water-sports available in Haikou. There is a windsurfing
 
 Windsurf rental prices are 100-150 RMB per day. Tuition is available, but do not expect much spoken English.
 
-### Address of Windsurfing and Sailing Club in Haikou:
+#### Address of Windsurfing and Sailing Club in Haikou:
 
 Xixiu Beach, Binhai West Road, Haikou City, Hainan Province.
 地址: 海南省海口市滨海西路西秀海滩公园. Hǎinán shěng, hǎikǒu shì, bīnhǎi xi lù, xī xiù hǎitān gōngyuán.

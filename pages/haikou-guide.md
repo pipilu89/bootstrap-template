@@ -8,6 +8,11 @@ Haikou city has many faces: Palm tree lined streets; modern skyscraper city scap
 
 Wonder along HaiDian river and see the local traditional wooden fishing boats. Head to the east end of the river at around 5pm to see the fish markets. The old town centre retains a fast disappearing part of Chinese history - the Hutong. Spend an hour or 2 here getting lost amongst the winding narrow alleyways and temples of this tradition housing style. Stroll with the locals along the bustling fruit and food stalls on Haidian San Xi Lu in the evening and stop for a snack of 'chao bing'.
 
+### Contents:
+
+[Haikou Beaches](#haikou-beaches)
+[Windsurfing and Sailing](#windsurfing-and-sailing)
+
 ## Haikou Beaches
 
 Haikou City has 4 main beach areas:Haikou, Holiday Beach4

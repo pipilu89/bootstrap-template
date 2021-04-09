@@ -26,7 +26,7 @@ Welcome to the Haikou Banana Hostel Website.
 
 <div class="row mt-5 justify-content-center">
   
-{% include card.html text="Haikou city travel info" header="Haikou" width="25" btn-text="Learn More" btn-link="hostel-location.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg" %}
+{% include card.html text="Haikou city travel info" header="Haikou" width="25" btn-text="Learn More" btn-link="haikou-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg" %}
 
 {% include card.html text="Guide to the rest of Hainan Island" header="Hainan" width="25" btn-text="Learn More" btn-link="hostel-location.html" %}
 

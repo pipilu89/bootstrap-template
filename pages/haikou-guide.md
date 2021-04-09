@@ -75,7 +75,7 @@ On the north coast of Haidian Island (in the north of Haikou, near to the Haikou
 
 
 <div id="haikou-baishamen-beach" style="max-width:80%;margin:auto"></div>
-<script type="text/javascript">const myGallery= cloudinary.galleryWidget({ 
+<script type="text/javascript">const myGallery2= cloudinary.galleryWidget({ 
         "container": "#haikou-baishamen-beach", 
         "cloudName": "dfjb9p5ri",
         "displayProps": {

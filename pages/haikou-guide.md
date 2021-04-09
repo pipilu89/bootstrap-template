@@ -33,6 +33,7 @@ If you like to try different street food, you will enjoy this place. Lots of cho
 
 Chinese comments: 超多的各地小吃，绝对可以让你一饱口福，而且价格方面超实惠哦，人均9元人民币足矣。特色推荐:清补凉、炒冰、鸡蛋饼、鲜榨橙汁等等。
 
+Haida southgate street food Haikou
 ![Haida southgate street food Haikou](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617952959/haikou/Haida_20southgate_20street_20food_20Haikou_io1wvk.jpg)
 
 
@@ -71,7 +72,20 @@ Closer to the west of Haikou city is Xixiu Beach, which 1-2km further west becom
 
 On the north coast of Haidian Island (in the north of Haikou, near to the Haikou Banana Hostel) is Baishamen Park and Beach. The beach is about 1km long and next to where part of the Nandu River reaches the sea. The area was re-landscaped in 2010-2011.
 
-{% include cloudinary-gallerywidget.html gallerytag="haikou-baishamen-beach" %}
+
+
+<div id="haikou-baishamen-beach" style="max-width:80%;margin:auto"></div>
+<script type="text/javascript">const myGallery= cloudinary.galleryWidget({ 
+        "container": "#haikou-baishamen-beach", 
+        "cloudName": "dfjb9p5ri",
+        "displayProps": {
+                "mode": "expanded",
+                "columns": 3},
+        "mediaAssets": [{tag: "haikou-baishamen-beach" }],
+        "zoomProps": {"type": "popup","trigger": "click"}
+        }); 
+        myGallery.render(); 
+</script>
 
 ### Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)
 

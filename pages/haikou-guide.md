@@ -84,7 +84,7 @@ On the north coast of Haidian Island (in the north of Haikou, near to the Haikou
         "mediaAssets": [{tag: "haikou-baishamen-beach" }],
         "zoomProps": {"type": "popup","trigger": "click"}
         }); 
-        myGallery.render(); 
+        myGallery2.render(); 
 </script>
 
 #### Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)

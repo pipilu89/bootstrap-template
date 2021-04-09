@@ -8,6 +8,8 @@ Demo: <https://thecdil.github.io/bootstrap-template/>
 
 ## fluid images
 
+enable images to resize on different size screens.
+
 eg `![single room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906829/hostel-rooms/Single-room_bbigee.jpg){:.img-fluid}`
 
 add `{:.img-fluid}` directly after image url

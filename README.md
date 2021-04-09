@@ -6,6 +6,13 @@ It is intended as a quick starting point for creating new web projects.
 
 Demo: <https://thecdil.github.io/bootstrap-template/>
 
+## fluid images
+
+eg `![single room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906829/hostel-rooms/Single-room_bbigee.jpg){:.img-fluid}`
+
+add `{:.img-fluid}` directly after image url
+
+
 ## Get Started 
 
 - Click green "Use this template" button to make a new copy of the code (alternatively, use Import or manually copy files)

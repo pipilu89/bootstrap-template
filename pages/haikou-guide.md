@@ -31,6 +31,8 @@ In the main area of the beach there are outdoor street food stalls and places to
 
 To the west of the main entrance there are volley ball nets and an outdoor BBQ area. Bring your own food to the BBQ. You pay around 50 RMB for charcoal and to use the one of the BBQ pits. The BBQ pits can be very popular in the evening with locals and can provide an atmospheric setting: with the smell of good food, many people having fun, and a nice sunset on the palm tree lined beach.
 
+{% include cloudinary-gallerywidget.html gallerytag="haikou-holiday-beach" %}
+
 ### Xixiu Beach (西秀海滩 Xixiù hǎitān)
 
 Closer to the west of Haikou city is Xixiu Beach, which 1-2km further west becomes Holiday Beach. The Hainan Windsurfing and Sailing Association has equipment for rent on Xixiu Beach.
@@ -38,6 +40,8 @@ Closer to the west of Haikou city is Xixiu Beach, which 1-2km further west becom
 ### Baishamen Beach (白沙门海滩 Báishāmén hǎitān)
 
 On the north coast of Haidian Island (in the north of Haikou, near to the Haikou Banana Hostel) is Baishamen Park and Beach. The beach is about 1km long and next to where part of the Nandu River reaches the sea. The area was re-landscaped in 2010-2011.
+
+{% include cloudinary-gallerywidget.html gallerytag="haikou-baishamen-beach" %}
 
 ### Guilinyang Beach (桂林洋海滩 Guìlínyáng hǎitān)
 

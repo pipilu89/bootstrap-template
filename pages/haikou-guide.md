@@ -40,6 +40,9 @@ Chinese comments: 超多的各地小吃，绝对可以让你一饱口福，而�
 
 ![Haida southgate street food Haikou](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617952959/haikou/Haida_20southgate_20street_20food_20Haikou_io1wvk.jpg)
 
+
+--------
+
 ## Haikou Beaches
 
 Haikou City has 4 main beach areas:
@@ -79,6 +82,7 @@ On the north coast of Haidian Island (in the north of Haikou, near to the Haikou
 
 To the east of Haikou is the beach area of Guilinyang. This is a quieter place than Holiday beach. The best area of Guilinyang beach is probably around the Crown Plaza hotel.
 
+--------
 
 ## Windsurfing and Sailing
 

@@ -28,7 +28,7 @@ If you like to try different street food, you will enjoy this place. Lots of cho
 - Type of food: Street food. 小吃 (Xiǎochī)
 - Opening hours: 6pm to 12pm（evening only). At 6pm the road is closed off to cars and becomes Haikou's most famous snack food street.
 - How to get there: just at the opposite side of the south gate of Hainan university on Sanxi Lu. About 5 minutes walk from the Banana Hostel.
-- Recommend：qingbu liang, roujia mo, liang pi noodles, freshly squeezed orange juice, etc.
+- Recommend: qingbu liang, roujia mo, liang pi noodles, freshly squeezed orange juice, etc.
 - Price per person: 10-20 RMB.
 
 Chinese comments: 超多的各地小吃，绝对可以让你一饱口福，而且价格方面超实惠哦，人均9元人民币足矣。特色推荐:清补凉、炒冰、鸡蛋饼、鲜榨橙汁等等。

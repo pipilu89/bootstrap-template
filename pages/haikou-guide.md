@@ -42,7 +42,7 @@ Chinese comments: 超多的各地小吃，绝对可以让你一饱口福，而�
 
 ## Haikou Beaches
 
-Haikou City has 4 main beach areas:Haikou, Holiday Beach4
+Haikou City has 4 main beach areas:
 
 - Holiday Beach (假日海滩 Jiàrì hǎitān)
 - Xixiu Beach (西秀海滩 Xixiù hǎitān)

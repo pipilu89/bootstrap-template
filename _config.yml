@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
+title: Haikou Banana Hostel
+description: "Haikou Banana Hostel, Hainan Island. Book a room or learn about Hainan"
 year: 2021
-author: evan will 
+author: Banana 
 # add search box to navbar, true/false
 search: true
 
@@ -29,7 +29,7 @@ url:
 # baseurl is your github repository's name prefixed with a /
 baseurl:
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/pipilu89/bootstrap-template
 
 ##########
 # GOOGLE ANALYTICS [optional!]

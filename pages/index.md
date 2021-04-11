@@ -26,17 +26,17 @@ Welcome to the Haikou Banana Hostel Website.
 
 <div class="row mt-5 justify-content-center">
   
-{% include card.html text="Haikou city travel info" header="Haikou" width="25" btn-text="Learn More" btn-link="haikou-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg" %}
+{% include card.html text="Haikou city travel info" header="Haikou" btn-text="Learn More" btn-link="haikou-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg" %}
 
-{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" width="25" btn-text="Learn More" btn-link="hostel-location.html" %}
+{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hostel-location.html" %}
 
 </div>
 
 
 <div class="row mt-5 justify-content-center">
   
-{% include card.html text="Cycling is popular in Hainan, here you can find out more about cycle routes and bike rental etc." header="Cycling in Hainan" width="25" btn-text="Learn More" btn-link="cycling.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg" %}
+{% include card.html text="Cycling is popular in Hainan, here you can find out more about cycle routes and bike rental etc." header="Cycling in Hainan" btn-text="Learn More" btn-link="cycling.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg" %}
 
-{% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" width="25" btn-text="Learn More" btn-link="get-to-hainan.html" %}
+{% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" btn-text="Learn More" btn-link="get-to-hainan.html" %}
 
 </div>

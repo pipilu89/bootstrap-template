@@ -1,0 +1,3 @@
+Accordion example
+https://getbootstrap.com/docs/4.6/components/collapse/
+https://getbootstrap.com/docs/4.6/components/collapse/#accordion-example

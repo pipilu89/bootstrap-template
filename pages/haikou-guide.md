@@ -98,9 +98,39 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-windsurfing-tab"
                                                                         data-toggle="pill" href="#v-pills-windsurfing"
                                                                         role="tab">Windsurfing and Sailing</a>
+                                                                <a class="nav-link" id="v-pills-volcano-tab"
+                                                                        data-toggle="pill" href="#v-pills-volcano"
+                                                                        role="tab">Volcano Park</a>
                                                                 <a class="nav-link" id="v-pills-golf-tab"
                                                                         data-toggle="pill" href="#v-pills-golf"
                                                                         role="tab">Golf</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="card">
+                                <div class="card-header" id="headingThree">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseFour"
+                                                        aria-expanded="false" aria-controls="collapseFour">
+                                                        History and Culture
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-historydecades-tab"
+                                                                        data-toggle="pill" href="#v-pills-historydecades"
+                                                                        role="tab">Haikou thru the Decades</a>
+                                                                <a class="nav-link" id="v-pills-temples-tab"
+                                                                        data-toggle="pill" href="#v-pills-temples"
+                                                                        role="tab">Temples</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -341,10 +371,27 @@ title: Haikou Guide
                         </div>
                         <div class="tab-pane fade" id="v-pills-golf" role="tabpanel" aria-labelledby="v-pills-golf-tab">
                                 <h4>Golf Driving Range</h4>
-                                <p>To the east of Haikou is the beach area of Guilinyang. This is a quieter place than
-                                        Holiday beach. It is near to the new Jiandong area of Haikou.</p>
+                                <p>There is a golf driving range at the west side of Baishamen Park</p>
+
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-historydecades" role="tabpanel" aria-labelledby="v-pills-historydecades-tab">
+                        {% capture my_include %}{% include_relative haikou-thru-the-decades.md %}{% endcapture %}
+
+                        {{ my_include | markdownify }}
+
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-temples" role="tabpanel" aria-labelledby="v-pills-temples-tab">
+                        <h4>Temples</h4>
+                        <p>Info about the temples in Haikou</p>
+
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-volcano" role="tabpanel" aria-labelledby="v-pills-volcano-tab">
+                        {% capture volcano_include %}{% include_relative haikou-volcano-park.md %}{% endcapture %}
+
+                        {{ volcano_include | markdownify }}
 
                         </div>
                 </div>
         </div>
+
 </div>

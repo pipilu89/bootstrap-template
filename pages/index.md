@@ -5,7 +5,7 @@ layout: page
 
 {% include jumbotron.html text="here is some text" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" title=site.title lead="How to get to Banana Hostel" btn-text="Learn More" btn-link="hostel-location.html" %}
 
-Welcome to the Haikou Banana Hostel Website. 
+Welcome to the Haikou Banana Hostel Website.
 
 <div class="row mt-5 justify-content-center">
   
@@ -26,12 +26,13 @@ Welcome to the Haikou Banana Hostel Website.
 
 <div class="row mt-5 justify-content-center">
   
-{% include card.html text="Haikou city travel info" header="Haikou" btn-text="Learn More" btn-link="haikou-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg" %}
+{% include card.html text="Haikou city travel info" header="Haikou" btn-text="Learn More" btn-link="haikou-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1618146035/haikou/haikou-haidian-river_bzgbsq.jpg" %}
+
+<!-- https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg -->
 
 {% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hostel-location.html" %}
 
 </div>
-
 
 <div class="row mt-5 justify-content-center">
   

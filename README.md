@@ -21,6 +21,7 @@ add `{:.img-fluid}` directly after image url
 ## include .md within html
 
 {% capture my_include %}{% include_relative haikou-thru-the-decades.md %}{% endcapture %}
+
 {{ my_include | markdownify }}
 
 ## Get Started 

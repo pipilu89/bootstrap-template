@@ -18,6 +18,10 @@ eg `![single room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616
 
 add `{:.img-fluid}` directly after image url
 
+## include .md within html
+
+{% capture my_include %}{% include_relative haikou-thru-the-decades.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 ## Get Started 
 

@@ -4,6 +4,7 @@ title: Haikou Guide
 
 ### Contents:
 
+
 <div class="row">
         <div class="col-md-4">
                 <div class="accordion mb-4" id="accordionExample">
@@ -100,7 +101,8 @@ title: Haikou Guide
                                                                         role="tab">Windsurfing and Sailing</a>
                                                                 <a class="nav-link" id="v-pills-volcano-tab"
                                                                         data-toggle="pill" href="#v-pills-volcano"
-                                                                        role="tab">Volcano Park</a>
+                                                                        role="tab">Volcano
+                                                                        Park</a>
                                                                 <a class="nav-link" id="v-pills-golf-tab"
                                                                         data-toggle="pill" href="#v-pills-golf"
                                                                         role="tab">Golf</a>
@@ -126,8 +128,9 @@ title: Haikou Guide
                                                         <div class="nav flex-column nav-pills" id="v-pills-tab"
                                                                 role="tablist" aria-orientation="vertical">
                                                                 <a class="nav-link" id="v-pills-historydecades-tab"
-                                                                        data-toggle="pill" href="#v-pills-historydecades"
-                                                                        role="tab">Haikou thru the Decades</a>
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-historydecades" role="tab">Haikou
+                                                                        thru the Decades</a>
                                                                 <a class="nav-link" id="v-pills-temples-tab"
                                                                         data-toggle="pill" href="#v-pills-temples"
                                                                         role="tab">Temples</a>
@@ -173,6 +176,7 @@ title: Haikou Guide
                                         Haidian San Xi Lu in the evening and stop for a snack of 'chao bing'.</p>
                                 <img class="img-fluid" alt="Haikou street scene"
                                         src="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617949584/haikou/Haikou_City_pineapplelady.jpg">
+
                         </div>
                         <div class="tab-pane fade" id="v-pills-seafood" role="tabpanel"
                                 aria-labelledby="v-pills-seafood-tab">
@@ -374,24 +378,66 @@ title: Haikou Guide
                                 <p>There is a golf driving range at the west side of Baishamen Park</p>
 
                         </div>
-                        <div class="tab-pane fade" id="v-pills-historydecades" role="tabpanel" aria-labelledby="v-pills-historydecades-tab">
-                        {% capture my_include %}{% include_relative haikou-thru-the-decades.md %}{% endcapture %}
+                        <div class="tab-pane fade" id="v-pills-historydecades" role="tabpanel"
+                                aria-labelledby="v-pills-historydecades-tab">
+                                {% capture my_include %}{% include_relative haikou-guide/haikou-thru-the-decades.md %}{%
+                                endcapture
+                                %}
 
-                        {{ my_include | markdownify }}
-
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-temples" role="tabpanel" aria-labelledby="v-pills-temples-tab">
-                        <h4>Temples</h4>
-                        <p>Info about the temples in Haikou</p>
+                                {{ my_include | markdownify }}
 
                         </div>
-                        <div class="tab-pane fade" id="v-pills-volcano" role="tabpanel" aria-labelledby="v-pills-volcano-tab">
-                        {% capture volcano_include %}{% include_relative haikou-volcano-park.md %}{% endcapture %}
+                        <div class="tab-pane fade" id="v-pills-temples" role="tabpanel"
+                                aria-labelledby="v-pills-temples-tab">
+                                <h4>Temples</h4>
+                                <p>Info about the temples in Haikou</p>
 
-                        {{ volcano_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-volcano" role="tabpanel"
+                                aria-labelledby="v-pills-volcano-tab">
+                                {% capture volcano_include %}{% include_relative haikou-guide/haikou-volcano-park.md
+                                %}{% endcapture
+                                %}
+
+                                {{ volcano_include | markdownify }}
+
+
+
 
                         </div>
                 </div>
         </div>
 
 </div>
+
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+        const rongtangGallery = cloudinary.galleryWidget({
+                "container": "#rongtang-village-and-caves",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "rongtang-village-and-caves" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const rufuGallery = cloudinary.galleryWidget({
+                "container": "#rufu-village",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "rufu-village" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+
+        document.getElementById("v-pills-volcano-tab").addEventListener('click', () => {
+                console.log("render galleries");
+                rongtangGallery.render();
+                rufuGallery.render();
+        })
+
+</script>

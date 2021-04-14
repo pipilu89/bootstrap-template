@@ -1,7 +1,10 @@
 Accordion example
 https://getbootstrap.com/docs/4.6/components/collapse/
 https://getbootstrap.com/docs/4.6/components/collapse/#accordion-example
+---
+{% include template/scroll-to-top.html %}
 
+---
 
 rooms and prices
 https://getbootstrap.com/docs/4.6/content/typography/#description-list-alignment
@@ -31,3 +34,47 @@ https://getbootstrap.com/docs/4.6/content/typography/#description-list-alignment
     </dl>
   </dd>
 </dl>
+
+---
+## insert .md file in html
+                                {% capture volcano_include %}{% include_relative haikou-guide/haikou-volcano-park.md %}{% endcapture
+                                %}
+
+                                {{ volcano_include | markdownify }}
+
+
+---
+{% include cloudinary-gallerywidget.html gallerytag="rongtang-village-and-caves" %}
+----
+<div id="rufu-village" style="max-width:80%;margin:auto"></div>
+<script type="text/javascript">const myGallery2 = cloudinary.galleryWidget({
+                "container": "#rufu-village",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "rufu-village" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        myGallery2.render();
+</script>
+
+---
+onClick='(function(){
+                                                                                const myGallery1 = cloudinary.galleryWidget({
+                                                                                        "container": "#rongtang-village-and-caves",
+                                                                                        "cloudName": "dfjb9p5ri",
+                                                                                        "displayProps": {
+                                                                                                "mode": "expanded",
+                                                                                                "columns": 3
+                                                                                        },
+                                                                                        "mediaAssets": [{ tag: "rongtang-village-and-caves" }],
+                                                                                        "zoomProps": { "type": "popup", "trigger": "click" }
+                                                                                });
+                                                                                myGallery1.render();
+                                                                                
+                                                                            })();return false;'
+
+---
+onClick='(function(){myGallery1.render();})();return false;'

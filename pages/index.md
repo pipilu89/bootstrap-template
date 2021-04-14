@@ -41,3 +41,8 @@ Welcome to the Haikou Banana Hostel Website.
 {% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" btn-text="Learn More" btn-link="get-to-hainan.html" %}
 
 </div>
+<div class="row mt-5 justify-content-center">
+
+{% include card.html text="Volcano Park." header="Volcano Park" btn-text="Learn More" btn-link="haikou-guide/haikou-volcano-park.html" %}
+
+</div>

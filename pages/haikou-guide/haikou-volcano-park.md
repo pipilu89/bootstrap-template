@@ -1,3 +1,4 @@
+
 ## Haikou Volcano Park
 
 13,000 years ago, northern Hainan was the scene of extensive volcanic eruptions. The rich volcanic resources left by these eruptions gave the area its fertile soils, the strange shapes of its volcanic remnants, its lava caves, its valuable igneous rocks, and its abundant tropical ecology. This geologic event was critical in moulding the scenery and culture of the area today.
@@ -37,13 +38,16 @@ The village is situated at the entrance of a cave system. There is also another 
 
 The village is well preserved. Most village residents have moved out, only a few elderly people remain. Give the the elderly a few RMB to be a guide.
 
-{% include cloudinary-gallerywidget.html gallerytag="rongtang-village-and-caves" %}
+<div id="rongtang-village-and-caves" style="max-width:90%;margin:auto"></div>
 
 ### Rúfú Village 儒符 and Rúfú Pagoda Ruins 儒符石塔 Rúfú shítǎ
 
 Source: http://www.haikou.gov.cn
 
 The Rufu Pagoda was built in the Song Dynasty around 800 years ago. Today, just the base still stands. It is one of the oldest structures in Hainan. It was built entirely from volcanic rock and its style is rare in China. The design has influences from perhaps India or other south-east Asian countries.
+
+<div id="rufu-village" style="max-width:90%;margin:auto"></div>
+
 
 More Photos from Volcano Villages
 

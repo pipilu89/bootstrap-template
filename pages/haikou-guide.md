@@ -103,6 +103,9 @@ title: Haikou Guide
                                                                         data-toggle="pill" href="#v-pills-volcano"
                                                                         role="tab">Volcano
                                                                         Park</a>
+                                                                <a class="nav-link" id="v-pills-parks-tab"
+                                                                        data-toggle="pill" href="#v-pills-parks"
+                                                                        role="tab">Parks</a>
                                                                 <a class="nav-link" id="v-pills-golf-tab"
                                                                         data-toggle="pill" href="#v-pills-golf"
                                                                         role="tab">Golf</a>
@@ -190,6 +193,9 @@ title: Haikou Guide
                                         Bǎn qiáo lù
                                         hǎixiān
                                         shìchǎng).</p>
+                                <img class="img-fluid" alt="Muslim BBQ Haidian Island"
+                                        src="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147282/haikou/random-haikou-photos/Haikou-seafood-market_wtpkwq.jpg">
+
                         </div>
                         <div class="tab-pane fade" id="v-pills-bbq" role="tabpanel" aria-labelledby="v-pills-bbq-tab">
                                 <h4>BBQ Food</h4>
@@ -389,9 +395,11 @@ title: Haikou Guide
                         </div>
                         <div class="tab-pane fade" id="v-pills-temples" role="tabpanel"
                                 aria-labelledby="v-pills-temples-tab">
-                                <h4>Temples</h4>
-                                <p>Info about the temples in Haikou</p>
+                                {% capture temples_include %}{% include_relative haikou-guide/temples.md %}{%
+                                endcapture
+                                %}
 
+                                {{ temples_include | markdownify }}
                         </div>
                         <div class="tab-pane fade" id="v-pills-volcano" role="tabpanel"
                                 aria-labelledby="v-pills-volcano-tab">
@@ -400,10 +408,14 @@ title: Haikou Guide
                                 %}
 
                                 {{ volcano_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-parks" role="tabpanel"
+                                aria-labelledby="v-pills-parks-tab">
+                                {% capture parks_include %}{% include_relative haikou-guide/haikou-parks.md
+                                %}{% endcapture
+                                %}
 
-
-
-
+                                {{ parks_include | markdownify }}
                         </div>
                 </div>
         </div>
@@ -413,6 +425,8 @@ title: Haikou Guide
 <script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
 
 <script type="text/javascript">
+
+        // volcano galleries
         const rongtangGallery = cloudinary.galleryWidget({
                 "container": "#rongtang-village-and-caves",
                 "cloudName": "dfjb9p5ri",
@@ -433,11 +447,125 @@ title: Haikou Guide
                 "mediaAssets": [{ tag: "rufu-village" }],
                 "zoomProps": { "type": "popup", "trigger": "click" }
         });
+        const leihuGallery = cloudinary.galleryWidget({
+                "container": "#leihu-volcano-gallery",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "leihu-volcano" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
 
         document.getElementById("v-pills-volcano-tab").addEventListener('click', () => {
                 console.log("render galleries");
                 rongtangGallery.render();
                 rufuGallery.render();
+                leihuGallery.render();
+        })
+
+        // parks tab
+        const wormholeGallery = cloudinary.galleryWidget({
+                "container": "#wormhole-library",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 2
+                },
+                "mediaAssets": [{ tag: "wormhole-library" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const wuyuanheGallery = cloudinary.galleryWidget({
+                "container": "#wuyuanhe-park",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "wuyuanhe-park" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+
+        document.getElementById("v-pills-parks-tab").addEventListener('click', () => {
+                console.log("render galleries");
+                wormholeGallery.render();
+                wuyuanheGallery.render();
+        })
+
+        // temples tab galleries
+        const fudiGallery = cloudinary.galleryWidget({
+                "container": "#fudi-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "fudi-temple" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const qiongtaiGallery = cloudinary.galleryWidget({
+                "container": "#qiongtai-college-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "qiongtai-college" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const wugongciGallery = cloudinary.galleryWidget({
+                "container": "#wugongci-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "wugongci" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+
+        const lakeTempleGallery = cloudinary.galleryWidget({
+                "container": "#lake-temple-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "lake-temple" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const tianningGallery = cloudinary.galleryWidget({
+                "container": "#tianning-temple-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "tianning-temple" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+        const haidianGallery = cloudinary.galleryWidget({
+                "container": "#haidian-temples-photos",
+                "cloudName": "dfjb9p5ri",
+                "displayProps": {
+                        "mode": "expanded",
+                        "columns": 3
+                },
+                "mediaAssets": [{ tag: "haidian-temples" }],
+                "zoomProps": { "type": "popup", "trigger": "click" }
+        });
+
+
+
+        document.getElementById("v-pills-temples-tab").addEventListener('click', () => {
+                console.log("render galleries");
+                fudiGallery.render();
+                qiongtaiGallery.render();
+                wugongciGallery.render();
+                lakeTempleGallery.render();
+                tianningGallery.render();
+                haidianGallery.render();
         })
 
 </script>

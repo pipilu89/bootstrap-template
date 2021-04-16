@@ -49,20 +49,38 @@ The Rufu Pagoda was built in the Song Dynasty around 800 years ago. Today, just 
 <div id="rufu-village" style="max-width:90%;margin:auto"></div>
 
 
-More Photos from Volcano Villages
+### Leihu Volcano
 
-Resources
+LeiHu Volcano 雷虎岭, also called "Group of Autumn Hill" 群秋岭, is about 18 kilometers south from the urban area of Haikou, about 3 km south from Yongxing town, has an elevation of 170 meters and covers an area of about 0.44 square kilometers of green farmland and forest. It is long ago dormant and is largely untouched and wild apart from some cultivated farm terraces. You are unlikely to see anyoine else there apart from a few local farmers.
 
-Haikou Volcano map
+The area is connected by small concrete roads between the villages and farmland which are good for cycling. The fields are defined by low walls hand made from the lava rock.
+
+Ten thousand years ago Lei Huling was created by the eruption of a volcano, the top central ridge is a much bigger than Ma'anling volcano (the site of the Haikou Tourist Volcano Park). Unlike Ma'anling volcano, this is not a complete circular volcano mouth, its like a natural big chair in shape: East and west ridges for the arms of the chair, the South Ridge for the chair backrest, north side is the open front of the gaint chair.
+
+Located on the west side of LeiHu Volcano is LeiHu Temple 雷虎岭庙, built in the Song Dynasty, it has a history of over one thousand years, the main deity is "White Horse Temple liang" 白马梁公.
+
+Next to the Temple is a lava cave. The local villagers call it the "Fairy Cave" 仙人洞. It is one of the largest caves in Hainan. The cave is big enough to drive a car into it. Its said the Japanese had used the cave as a large munitions warehouse during the invasion. There is a another cave somewhere around the volcano that I was unable to find.
+
+In addition, Lei Huling has a natural spring well called the "Confucian autumn well" 儒秋井. It has a depth of about 8 meters, and a large oval opening. Supposedly providing quality natural mineral water.
+
+
+<div id="leihu-volcano-gallery" style="max-width:90%;margin:auto"></div>
+
+
+### Resources
+
+Haikou Volcano map:
+
+![Haikou Volcano map](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147474/haikou/volcano/volcano-map_beshh8.png){:.img-fluid}
 
 Map of the volcano tourist park:
 
-map of volcano tourist park
+![map of volcano tourist park](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147477/haikou/volcano/map_of_volcano_tourist_park_hycgdv.jpg){:.img-fluid}
 
 Map of whole of protected volcano park:
 
-map of whole of protected volcano park
+![map of whole of protected volcano park](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147478/haikou/volcano/map_of_whole_of_protected_volcano_park_j54fxw.jpg){:.img-fluid}
 
 Chinese map of volcano park location:
 
-chinese map of volcano park location
+![chinese map of volcano park location](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147476/haikou/volcano/chinese_map_of_volcano_park_location_y2jsmk.jpg){:.img-fluid}

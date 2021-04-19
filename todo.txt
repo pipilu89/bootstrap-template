@@ -78,3 +78,14 @@ onClick='(function(){
 
 ---
 onClick='(function(){myGallery1.render();})();return false;'
+
+---
+images with caption
+
+<figure>
+  <img src="{{site.url}}/assets/image.jpg" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
+![](path_to_image)
+*image_caption*

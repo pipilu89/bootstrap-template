@@ -2,8 +2,6 @@
 title: Haikou Guide
 ---
 
-### Contents:
-
 
 <div class="row">
         <div class="col-md-4">
@@ -106,6 +104,9 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-parks-tab"
                                                                         data-toggle="pill" href="#v-pills-parks"
                                                                         role="tab">Parks</a>
+                                                                <a class="nav-link" id="v-pills-nightlife-tab"
+                                                                        data-toggle="pill" href="#v-pills-nightlife"
+                                                                        role="tab">Nightlife</a>
                                                                 <a class="nav-link" id="v-pills-golf-tab"
                                                                         data-toggle="pill" href="#v-pills-golf"
                                                                         role="tab">Golf</a>
@@ -387,8 +388,7 @@ title: Haikou Guide
                         <div class="tab-pane fade" id="v-pills-historydecades" role="tabpanel"
                                 aria-labelledby="v-pills-historydecades-tab">
                                 {% capture my_include %}{% include_relative haikou-guide/haikou-thru-the-decades.md %}{%
-                                endcapture
-                                %}
+                                endcapture %}
 
                                 {{ my_include | markdownify }}
 
@@ -396,8 +396,7 @@ title: Haikou Guide
                         <div class="tab-pane fade" id="v-pills-temples" role="tabpanel"
                                 aria-labelledby="v-pills-temples-tab">
                                 {% capture temples_include %}{% include_relative haikou-guide/temples.md %}{%
-                                endcapture
-                                %}
+                                endcapture %}
 
                                 {{ temples_include | markdownify }}
                         </div>
@@ -412,10 +411,16 @@ title: Haikou Guide
                         <div class="tab-pane fade" id="v-pills-parks" role="tabpanel"
                                 aria-labelledby="v-pills-parks-tab">
                                 {% capture parks_include %}{% include_relative haikou-guide/haikou-parks.md
-                                %}{% endcapture
-                                %}
+                                %}{% endcapture %}
 
                                 {{ parks_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-nightlife" role="tabpanel"
+                                aria-labelledby="v-pills-nightlife-tab">
+                                {% capture nightlife_include %}{% include_relative haikou-guide/nightlife.md
+                                %}{% endcapture %}
+
+                                {{ nightlife_include | markdownify }}
                         </div>
                 </div>
         </div>

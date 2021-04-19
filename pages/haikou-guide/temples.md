@@ -27,7 +27,7 @@ A real temple still used by Buddhists. Normally most lively in the morning, expe
 
 Near Xiuying port on Haigang Road (海港路 Hǎigǎng lù) behind the Kaiwei Hotel (凯威大酒店 Kǎi wēi dà jiǔdiàn).
 
-Buddha's Birthday ceremonies will be on June 19.
+Buddha's Birthday ceremonies normally held in June.
 
 Buses: 28, 7, 6, 39, 35.
 

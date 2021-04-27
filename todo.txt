@@ -5,6 +5,8 @@ https://getbootstrap.com/docs/4.6/components/collapse/#accordion-example
 {% include template/scroll-to-top.html %}
 
 ---
+update imahges to figures if need caption.
+
 
 rooms and prices
 https://getbootstrap.com/docs/4.6/content/typography/#description-list-alignment

@@ -94,6 +94,9 @@ title: Haikou Guide
                                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
                                                         <div class="nav flex-column nav-pills" id="v-pills-tab"
                                                                 role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-oldtown-tab"
+                                                                        data-toggle="pill" href="#v-pills-oldtown"
+                                                                        role="tab">Old Town</a>
                                                                 <a class="nav-link" id="v-pills-windsurfing-tab"
                                                                         data-toggle="pill" href="#v-pills-windsurfing"
                                                                         role="tab">Windsurfing and Sailing</a>
@@ -110,6 +113,13 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-golf-tab"
                                                                         data-toggle="pill" href="#v-pills-golf"
                                                                         role="tab">Golf</a>
+                                                                <a class="nav-link" id="v-pills-public-buildings-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-public-buildings"
+                                                                        role="tab">Public Buildings</a>
+                                                                <a class="nav-link" id="v-pills-shopping-tab"
+                                                                        data-toggle="pill" href="#v-pills-shopping"
+                                                                        role="tab">Shopping</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -200,12 +210,10 @@ title: Haikou Guide
                         </div>
                         <div class="tab-pane fade" id="v-pills-bbq" role="tabpanel" aria-labelledby="v-pills-bbq-tab">
                                 <h4>BBQ Food</h4>
-                                <p>Haikou City has many outdoor BBQ stalls. If your looking for Western
-                                        standard
-                                        comfort and cleanliness these places may not be for you: the outdoor BBQ
-                                        stalls are
-                                        usually little more than a few plastic tables and chairs put out on the
-                                        street.</p>
+                                <p>Haikou City has many outdoor BBQ stalls. If your looking for Western standard comfort
+                                        and cleanliness these places may not be for you: the outdoor BBQ stalls are
+                                        usually little more than a few plastic tables and chairs put out on the street.
+                                </p>
                                 <p>However, these are one of the charms of Haikou city. The
                                         stalls do not
                                         exist in the day time, but wait until the sun sets and the temperature
@@ -222,6 +230,7 @@ title: Haikou Guide
                                         <li>BBQ fish served with fresh small limes. (Mackerel pike fish, also
                                                 known as Pacific
                                                 saury, Chinese: 秋刀魚 Qiūdāoyú)</li>
+                                        <li>Skewed lamb sticks.</li>
                                         <li>Whole sweetcorn.</li>
                                         <li>Dried squid with wasabe and soy sauce.</li>
                                         <li>BBQ'ed oysters with garlic.</li>
@@ -421,6 +430,30 @@ title: Haikou Guide
                                 %}{% endcapture %}
 
                                 {{ nightlife_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-public-buildings" role="tabpanel"
+                                aria-labelledby="v-pills-public-buildings-tab">
+                                {% capture public-buildings_include %}{% include_relative
+                                haikou-guide/public-buildings.md
+                                %}{% endcapture %}
+
+                                {{ public-buildings_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-shopping" role="tabpanel"
+                                aria-labelledby="v-pills-shopping-tab">
+                                {% capture shopping_include %}{% include_relative
+                                haikou-guide/shopping.md
+                                %}{% endcapture %}
+
+                                {{ shopping_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-oldtown" role="tabpanel"
+                                aria-labelledby="v-pills-oldtown-tab">
+                                {% capture oldtown_include %}{% include_relative
+                                haikou-guide/oldtown.md
+                                %}{% endcapture %}
+
+                                {{ oldtown_include | markdownify }}
                         </div>
                 </div>
         </div>

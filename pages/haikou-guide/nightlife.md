@@ -1,7 +1,7 @@
 
 ## Haikou Bars and Nightclubs
 
-![Haikou Bund Center Bar Street](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618842617/haikou/nightlife/mmexport1618842437843_rrjbvj.jpg){:.img-fluid}
+![Haikou Bund Center Bar Street](https://res.cloudinary.com/dfjb9p5ri/image/upload/c_scale,w_1080/v1618842617/haikou/nightlife/mmexport1618842437843_rrjbvj.jpg){:.img-fluid}
 *Haikou Bund Center Bar Street*
 
 Haikou has many bars and clubs around the city. There are few different types of drinking establishments in Haikou. Here s a brief summary:

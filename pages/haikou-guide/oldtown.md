@@ -1,4 +1,4 @@
-### Old Centre of Haikou
+## Haikou Qilou Acrade Street
 
 The unique decaying architecture of the old centre of Haikou is a mix European and Asian style. It was built by returning overseas Chinese. The area roughly expands from the bridge at the end of Renmin Dadao (人民大道) to East Lake (Dong Hu, 东湖). Explore the area and hutong alleys and you will get a taste of real traditional Haikou life. There are many small shops and real life community temples hidden in the back alleys.
 
@@ -23,7 +23,7 @@ Bus: Catch either 20, 26, 30, or 5 from opposite side of the road, outside the h
 
 
 
-#### Arcade Houses
+### Arcade Houses
 
 'Arcade house' (骑楼 qílóu) is a term used for buildings where the front half extends out over the footpath or sidewalk. A row of such houses creates a long shaded arcade along the side of the street where pedestrians can walk sheltered from the elements. From a distance qilou bear a resemblance to the diaojiaolou (吊脚楼) of western Hunan, where the rear part of the house is built over water.
 
@@ -34,7 +34,7 @@ The existing arcade houses in Haikou were largely built by Hainanese returning f
 The old commercial quarter has whole streets of decaying arcade houses still in use.
 
 
-#### Haikou Clock Tower
+### Haikou Clock Tower
 
 Haikou Clock TowerHaikou Clock Tower (钟楼, Zhōnglóu) is an important historical landmark. Originally built in 1928, it represents the development of trade in Haikou City. It is also a useful landmark to help tourists orientate themselves in the city and many local buses stop here.
 

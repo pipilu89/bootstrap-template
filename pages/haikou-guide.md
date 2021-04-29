@@ -153,6 +153,33 @@ title: Haikou Guide
                                         </div>
                                 </div>
                         </div>
+                        <div class="card">
+                                <div class="card-header" id="headingFive">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseFive"
+                                                        aria-expanded="false" aria-controls="collapseFive">
+                                                        Transport
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-buses-tab"
+                                                                        data-toggle="pill" href="#v-pills-buses"
+                                                                        role="tab">Buses</a>
+                                                                <a class="nav-link" id="v-pills-trains-tab"
+                                                                        data-toggle="pill" href="#v-pills-trains"
+                                                                        role="tab">Trains</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
                 </div>
         </div>
         <div class="col-md-8">
@@ -337,7 +364,7 @@ title: Haikou Guide
                                         good food,
                                         many people having fun, and a nice sunset on the palm tree lined beach.</p>
 
-                                <img class="img-fluid" alt="Haikou's Hp;iday Beach"
+                                <img class="img-fluid" alt="Haikou's Holiday Beach"
                                         src="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617951060/haikou/beaches/Haikou_2C_20Holiday_20Beach1_ip8l43.jpg">
                         </div>
                         <div class="tab-pane fade" id="v-pills-xixiubeach" role="tabpanel"
@@ -454,6 +481,22 @@ title: Haikou Guide
                                 %}{% endcapture %}
 
                                 {{ oldtown_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-buses" role="tabpanel"
+                                aria-labelledby="v-pills-buses-tab">
+                                {% capture buses_include %}{% include_relative
+                                haikou-guide/buses.md
+                                %}{% endcapture %}
+
+                                {{ buses_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-trains" role="tabpanel"
+                                aria-labelledby="v-pills-trains-tab">
+                                {% capture trains_include %}{% include_relative
+                                haikou-guide/trains.md
+                                %}{% endcapture %}
+
+                                {{ trains_include | markdownify }}
                         </div>
                 </div>
         </div>

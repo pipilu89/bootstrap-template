@@ -2,7 +2,6 @@
 title: Haikou Guide
 ---
 
-
 <div class="row">
         <div class="col-md-4">
                 <div class="accordion mb-4" id="accordionExample">
@@ -120,6 +119,9 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-shopping-tab"
                                                                         data-toggle="pill" href="#v-pills-shopping"
                                                                         role="tab">Shopping</a>
+                                                                <a class="nav-link" id="v-pills-studying-tab"
+                                                                        data-toggle="pill" href="#v-pills-studying"
+                                                                        role="tab">Studying Chinese</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -172,6 +174,9 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-buses-tab"
                                                                         data-toggle="pill" href="#v-pills-buses"
                                                                         role="tab">Buses</a>
+                                                                <a class="nav-link" id="v-pills-taxi-tab"
+                                                                        data-toggle="pill" href="#v-pills-taxi"
+                                                                        role="tab">Taxis</a>
                                                                 <a class="nav-link" id="v-pills-trains-tab"
                                                                         data-toggle="pill" href="#v-pills-trains"
                                                                         role="tab">Trains</a>
@@ -429,6 +434,13 @@ title: Haikou Guide
                                 {{ my_include | markdownify }}
 
                         </div>
+                        <div class="tab-pane fade" id="v-pills-studying" role="tabpanel"
+                                aria-labelledby="v-pills-studying-tab">
+                                {% capture studying_include %}{% include_relative haikou-guide/studying.md %}{%
+                                endcapture %}
+
+                                {{ studying_include | markdownify }}
+                        </div>
                         <div class="tab-pane fade" id="v-pills-temples" role="tabpanel"
                                 aria-labelledby="v-pills-temples-tab">
                                 {% capture temples_include %}{% include_relative haikou-guide/temples.md %}{%
@@ -489,6 +501,14 @@ title: Haikou Guide
                                 %}{% endcapture %}
 
                                 {{ buses_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-taxi" role="tabpanel"
+                                aria-labelledby="v-pills-taxi-tab">
+                                {% capture taxi_include %}{% include_relative
+                                haikou-guide/taxi.md
+                                %}{% endcapture %}
+
+                                {{ taxi_include | markdownify }}
                         </div>
                         <div class="tab-pane fade" id="v-pills-trains" role="tabpanel"
                                 aria-labelledby="v-pills-trains-tab">

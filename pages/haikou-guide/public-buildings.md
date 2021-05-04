@@ -1,6 +1,4 @@
-
 ### Hainan Museum
-
 
 Name in Chinese: 海南省博物馆 Hǎinán shěng bówùguǎn
 
@@ -16,15 +14,14 @@ The Hainan Museum opened in 2009 and will give you an insight into the history o
 
 > Taxi: about 25 RMB.
 >
-> Bicycle: about 40 minutes.{:.blockquote}
+> Bicycle: about 40 minutes.
 
 ### Haikou Stadium
 
 ![Haikou Stadium](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1619528824/haikou/public-buildings/haikou-stadium.jpg){:.img-fluid}
-*Haikou Stadium*
+_Haikou Stadium_
 
 Haikou Stadium is located in the west of the city.
-
 
 ### Haikou Convention Centre
 
@@ -32,7 +29,7 @@ The Haikou Convention Centre (海口会展中心 Hǎikǒu huìzhǎn zhōngxīn) 
 
 Address： Haikou Convention & Exhibition Center Binhai Ave.haikou,
 Hainan (570125)
-Tel:+86-898-68586205,+86-898-68586209 　　Fax：+86-898-68586211
+Tel:+86-898-68586205,+86-898-68586209 　　 Fax：+86-898-68586211
 
 地址：海南省海口市滨海大道海口会展中心
 联系电话：+86-898-68586205，+86-898-68586209

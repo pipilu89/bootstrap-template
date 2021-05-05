@@ -5,7 +5,7 @@ title: Haikou Guide
 <div class="row">
         <div class="col-md-4">
                 <div class="accordion mb-4" id="accordionExample">
-                        <div class="card">
+                        <div class="card" id="food-card">
                                 <div class="card-header" id="headingOne">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left" type="button"
@@ -38,7 +38,7 @@ title: Haikou Guide
                                         </div>
                                 </div>
                         </div>
-                        <div class="card">
+                        <div class="card" id="beaches-card">
                                 <div class="card-header" id="headingTwo">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
@@ -77,7 +77,7 @@ title: Haikou Guide
                                         </div>
                                 </div>
                         </div>
-                        <div class="card">
+                        <div class="card" id="activities-card">
                                 <div class="card-header" id="headingThree">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
@@ -122,12 +122,16 @@ title: Haikou Guide
                                                                 <a class="nav-link" id="v-pills-studying-tab"
                                                                         data-toggle="pill" href="#v-pills-studying"
                                                                         role="tab">Studying Chinese</a>
+                                                                <a class="nav-link" id="v-pills-surrounding-area-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-surrounding-area"
+                                                                        role="tab">Surrounding Area</a>
                                                         </div>
                                                 </div>
                                         </div>
                                 </div>
                         </div>
-                        <div class="card">
+                        <div class="card" id="history-card">
                                 <div class="card-header" id="headingThree">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
@@ -155,7 +159,7 @@ title: Haikou Guide
                                         </div>
                                 </div>
                         </div>
-                        <div class="card">
+                        <div class="card" id="transport-card">
                                 <div class="card-header" id="headingFive">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
@@ -502,8 +506,7 @@ title: Haikou Guide
 
                                 {{ buses_include | markdownify }}
                         </div>
-                        <div class="tab-pane fade" id="v-pills-taxi" role="tabpanel"
-                                aria-labelledby="v-pills-taxi-tab">
+                        <div class="tab-pane fade" id="v-pills-taxi" role="tabpanel" aria-labelledby="v-pills-taxi-tab">
                                 {% capture taxi_include %}{% include_relative
                                 haikou-guide/taxi.md
                                 %}{% endcapture %}
@@ -517,6 +520,14 @@ title: Haikou Guide
                                 %}{% endcapture %}
 
                                 {{ trains_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-surrounding-area" role="tabpanel"
+                                aria-labelledby="v-pills-surrounding-area-tab">
+                                {% capture surrounding-area_include %}{% include_relative
+                                haikou-guide/surrounding-area.md
+                                %}{% endcapture %}
+
+                                {{ surrounding-area_include | markdownify }}
                         </div>
                 </div>
         </div>

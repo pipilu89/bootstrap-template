@@ -1,6 +1,6 @@
 homepage- make the whole card a link eg firefox starting page.
 
-
+.nav-link{color:rgba(255,255,255,.5)}
 
 ----
 Accordion example

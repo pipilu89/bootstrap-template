@@ -1,10 +1,10 @@
-# Haikou Thru The Decades
+## Haikou Thru The Decades
 
 We have collected old photos of Haikou from the internet to show how Haikou has changed over the past few decades. We believe this is the first detailed English language presentation of this information.
 
 The information is divided by geographic location to make comparison of photos easier.
 
-### Contents:
+Contents:
 
 [Overview of Haikou city](#overview-of-haikou-city)
 
@@ -18,13 +18,13 @@ The information is divided by geographic location to make comparison of photos e
 
 [Longhua Road](#longhua-road)
 
-## Overview of Haikou city
+### Overview of Haikou city
 
 This photo from the 1970s shows Haikou is little more than the present old town area. The photo was taken looking north to south. In the centre we can see the East Lake. Towards the top of the photo you can just about make out the old Haikou Airport (present day Guoxing Avenue 国兴大道). In the bottom of the photo we can see Haidian Island and Renmin Bridge. At this time the rest of Haidian Island is mainly fields and water.
 
 ![Bird view of Haikou 70s](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617447188/haikou-history/Bird_20view_20of_20Haikou_2070s_zujmni.jpg){:.img-fluid}
 
-## Haidian Island
+### Haidian Island
 
 This photo is from the early 1980s, looking north over Renmin Bridge, across Haidian Island. Renmin road construction has started. Haidian Island is mostly fields, rivers, and a few buildings.
 
@@ -46,7 +46,7 @@ People used to get to Haidian Island by ferry.
 
 ![Crossing to Haidian Island ferry](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617447275/haikou-history/Crossing_to_Haidian_Island_ferry_fivoww.jpg){:.img-fluid}
 
-## Binhai Avenue and Longkun Road
+### Binhai Avenue and Longkun Road
 
 Binhai Avenue was constructed in 1965 by government mobilized citizens. Originally made from soil, in 1973 it became an asphalt road. Then from 1984 to 1988 it was expanded into a 3 lane road.
 
@@ -86,7 +86,7 @@ Present day Longkun Road and Haixiu Expressway. East to west.
 
 ![present longkun](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617448097/haikou-history/present_20longkun_qa1iqw.jpg){:.img-fluid}
 
-## Datong Road
+### Datong Road
 
 This is a photo of Datong Road from the 1960s. Surrounding area is mostly farmland.
 
@@ -120,7 +120,7 @@ Same junction again, but from the opposite direction in the 1990s. You can see t
 
 ![90Datong Haixiu](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617450669/haikou-history/90Datong-Haixiu_xa0xdz.jpg){:.img-fluid}
 
-## Haixiu Road and Mingzhu Plaza
+### Haixiu Road and Mingzhu Plaza
 
 Haixiu Road in the early 90s. The white building on the right stands on the site of present day Mingzhu Plaza. Back then it was the main Haikou bus station.
 
@@ -130,7 +130,7 @@ Another view of the old main Haikou bus station on Haixiu Road (present day Ming
 
 ![A student gives directions to a traveler outside Haikou Bus Station Now Mingzhu Plaza 1990](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617450715/haikou-history/A_student_gives_directions_to_a_traveler_outside_Haikou_Bus_Station_Now_Mingzhu_Plaza_1990_jpehe9.jpg){:.img-fluid}
 
-## Longhua Road
+### Longhua Road
 
 A photo of Longhua Road from the early 80s. It is surrounded by farmland.
 

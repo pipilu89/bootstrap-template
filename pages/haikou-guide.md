@@ -132,7 +132,7 @@ title: Haikou Guide
                                 </div>
                         </div>
                         <div class="card" id="history-card">
-                                <div class="card-header" id="headingThree">
+                                <div class="card-header" id="headingFour">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
                                                         data-toggle="collapse" data-target="#collapseFour"
@@ -141,7 +141,7 @@ title: Haikou Guide
                                                 </button>
                                         </h2>
                                 </div>
-                                <div id="collapseFour" class="collapse" aria-labelledby="headingThree"
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
                                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
@@ -193,8 +193,7 @@ title: Haikou Guide
         </div>
         <div class="col-md-8">
                 <div class="tab-content" id="v-pills-tabContent">
-                        <div class="tab-pane fade show active" id="v-pills-intro" role="tabpanel"
-                                aria-labelledby="v-pills-intro-tab">
+                        <div class="tab-pane fade show active" id="v-pills-intro">
                                 <h4>Haikou Introduction</h4>
                                 <p>Haikou is a fairly large tropical city and the capital of Hainan. It
                                         is the business
@@ -605,79 +604,6 @@ title: Haikou Guide
                 wuyuanheGallery.render();
         })
 
-        // temples tab galleries
-        const fudiGallery = cloudinary.galleryWidget({
-                "container": "#fudi-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "fudi-temple" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-        const qiongtaiGallery = cloudinary.galleryWidget({
-                "container": "#qiongtai-college-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "qiongtai-college" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-        const wugongciGallery = cloudinary.galleryWidget({
-                "container": "#wugongci-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "wugongci" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
 
-        const lakeTempleGallery = cloudinary.galleryWidget({
-                "container": "#lake-temple-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "lake-temple" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-        const tianningGallery = cloudinary.galleryWidget({
-                "container": "#tianning-temple-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "tianning-temple" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-        const haidianGallery = cloudinary.galleryWidget({
-                "container": "#haidian-temples-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "haidian-temples" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-
-
-
-        document.getElementById("v-pills-temples-tab").addEventListener('click', () => {
-                console.log("render galleries");
-                fudiGallery.render();
-                qiongtaiGallery.render();
-                wugongciGallery.render();
-                lakeTempleGallery.render();
-                tianningGallery.render();
-                haidianGallery.render();
-        })
 
 </script>

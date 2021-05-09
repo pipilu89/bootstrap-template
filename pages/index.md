@@ -30,7 +30,7 @@ Welcome to the Haikou Banana Hostel Website.
 
 <!-- https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg -->
 
-{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hostel-location.html" %}
+{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hainan-guide.html" %}
 
 </div>
 

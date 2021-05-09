@@ -1,8 +1,21 @@
 homepage- make the whole card a link eg firefox starting page.
 
 .nav-link{color:rgba(255,255,255,.5)}
+---
+Haikou Hash House Harriers 
 
+Haikou Hash meet every Saturday at 3:00pm at Red's pub on Heping road. A bus then takes the 'Hashers' to a rural area outside of Haikou. We normally go to a small village and follow a trail around the tropical countryside for 6 to 10 kms. Some people jog while others walk. After the exercise the drinking begins. We also eat at a restaurant, usually within Haikou city. All this costs about 50 rmb, including bus, meal, and as many beers as you can drink.
+
+It's a good way to see some of the more inaccessible areas of Hainan. You will see plenty of beautiful and interesting sights and visit remote areas that you would not otherwise see.
+
+Haikou Hash House Harriers website: www.hnhash.com (Chinese) 
 ----
+Visa
+https://www.sunnyhainan.com/hainan-island-visa-waiver-free-landing-visa-on-arrival-application/
+
+Haikou Weather 
+---
+
 Accordion example
 https://getbootstrap.com/docs/4.6/components/collapse/
 https://getbootstrap.com/docs/4.6/components/collapse/#accordion-example

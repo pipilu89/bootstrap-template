@@ -59,21 +59,17 @@ title: Hainan Guide
                                                                 <a class="nav-link" id="v-pills-coconut-island-tab"
                                                                         data-toggle="pill"
                                                                         href="#v-pills-coconut-island"
-                                                                        role="tab">Coconut Island (Dongjiao Yelin)</a>
-                                                                <a class="nav-link" id="v-pills-holidaybeach-tab"
-                                                                        data-toggle="pill" href="#v-pills-holidaybeach"
-                                                                        role="tab">Holiday Beach</a>
-                                                                <a class="nav-link" id="v-pills-xixiubeach-tab"
-                                                                        data-toggle="pill" href="#v-pills-xixiubeach"
-                                                                        role="tab">Xixiu Beach</a>
-                                                                <a class="nav-link" id="v-pills-baishamenbeach-tab"
-                                                                        data-toggle="pill"
-                                                                        href="#v-pills-baishamenbeach"
-                                                                        role="tab">Baishamen Beach</a>
-                                                                <a class="nav-link" id="v-pills-guilinyangbeach-tab"
-                                                                        data-toggle="pill"
-                                                                        href="#v-pills-guilinyangbeach"
-                                                                        role="tab">Guilinyang Beach</a>
+                                                                        role="tab">Coconut Island</a>
+                                                                <a class="nav-link" id="v-pills-wenchang-tab"
+                                                                        data-toggle="pill" href="#v-pills-wenchang"
+                                                                        role="tab">Wenchang</a>
+                                                                <a class="nav-link" id="v-pills-tonggu-tab"
+                                                                        data-toggle="pill" href="#v-pills-tonggu"
+                                                                        role="tab">Tonggu Mountain & Yue Liang Bay </a>
+                                                                <a class="nav-link" id="v-pills-puqian-tab"
+                                                                        data-toggle="pill" href="#v-pills-puqian"
+                                                                        role="tab">Puqian</a>
+
 
                                                         </div>
                                                 </div>
@@ -197,17 +193,11 @@ title: Hainan Guide
         <div class="col-md-8">
                 <div class="tab-content" id="v-pills-tabContent">
                         <div class="tab-pane fade show active" id="v-pills-intro">
-                                <h4>Hainan Introduction</h4>
-                                <p>Hainan island is characterized by a tropical climate, a relaxed pace of life, and
-                                        plentiful beaches. Outside Haikou, the capital city, Hainan is relatively
-                                        undeveloped. Travel a short distance outside the city and you will find villages
-                                        where people lead a traditional farming way of life in lush green countryside.
-                                        Around the coastal regions are many beaches. Adventurous travelers who explore
-                                        can find many unspoilt, natural beaches, unpopulated by tourists. The inner area
-                                        of the island features jungle and mountains and are good areas for hiking and
-                                        mountain biking.</p>
+                                {% capture hainan-intro_include %}{% include_relative
+                                hainan-guide/hainan-intro.md
+                                %}{% endcapture %}
 
-
+                                {{ hainan-intro_include | markdownify }}
                         </div>
                         <div class="tab-pane fade" id="v-pills-sanya" role="tabpanel"
                                 aria-labelledby="v-pills-sanya-tab">
@@ -253,6 +243,30 @@ title: Hainan Guide
                                 %}{% endcapture %}
 
                                 {{ coconut-island_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-wenchang" role="tabpanel"
+                                aria-labelledby="v-pills-wenchang-tab">
+                                {% capture wenchang_include %}{% include_relative
+                                hainan-guide/wenchang.md
+                                %}{% endcapture %}
+
+                                {{ wenchang_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-tonggu" role="tabpanel"
+                                aria-labelledby="v-pills-tonggu-tab">
+                                {% capture tonggu_include %}{% include_relative
+                                hainan-guide/tonggu.md
+                                %}{% endcapture %}
+
+                                {{ tonggu_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-puqian" role="tabpanel"
+                                aria-labelledby="v-pills-puqian-tab">
+                                {% capture puqian_include %}{% include_relative
+                                hainan-guide/puqian.md
+                                %}{% endcapture %}
+
+                                {{ puqian_include | markdownify }}
                         </div>
                 </div>
 

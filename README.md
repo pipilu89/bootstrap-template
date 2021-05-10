@@ -52,3 +52,11 @@ Included in assets/lib folder:
 - [JQuery](https://jquery.com/) 3.5.1
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.1.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
+
+**Photo Gallery:**
+open in new tab.
+[Tongguling National Nature Reserve Photos]({% link pages/hainan-guide/tonggu-photos.md %}){:target="_blank"}
+
+**picture with caption (figure)**
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1620646795/hainan/tonggu/Stone-Park-03_mbnlxu.jpg"
+alt="Stone Park" caption="Stone Park" %}

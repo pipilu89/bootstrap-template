@@ -1,5 +1,5 @@
 ---
-title: Hainan Coconut Island Photos
+title: Photos of Wenchang Confucius Temple
 ---
 
 <div class="mb-5" id="photos" style="max-width:90%;margin:auto"></div>
@@ -7,15 +7,15 @@ title: Hainan Coconut Island Photos
 <script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-        const coconutIsland = cloudinary.galleryWidget({
+        const temple = cloudinary.galleryWidget({
                 "container": "#photos",
                 "cloudName": "dfjb9p5ri",
                 "displayProps": {
                         "mode": "expanded",
                         "columns": 3
                 },
-                "mediaAssets": [{ tag: "coconut-island" }],
+                "mediaAssets": [{ tag: "wenchang-confucius-temple" }],
                 "zoomProps": { "type": "popup", "trigger": "click" }
         });
-        coconutIsland.render();
+        temple.render();
 </script>

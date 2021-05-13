@@ -22,11 +22,16 @@ Baishamen is close to the Banana Hostel, about 1.5 km away on the north coast.
 
 A new coastal cycle path connects Haikou Clock Tower to this Park, the path continues on to Evergreen Park. Century Park has football pitches, basketball courts and a running track that is ope to the public. In 2021 the Wormhole Library opened within the park. The library has a very distinctive design.
 
-#### Photos of Haikou's Wormhole Library in Century Park:
+**Photos of Haikou's Wormhole Library in Century Park:**
 
 <div id="wormhole-library" style="max-width:90%;margin:auto"></div>
 
-#### Photos of Haikou's Wuyuan River Wetlands Park:
+**Photo of East Lake next to Renmin Park**
+
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1620902302/haikou/parks/haikou-east-lake-800x600.jpg"
+alt="East Lake next to Renmin Park" caption="East Lake next to Renmin Park" %}
+
+**Photos of Haikou's Wuyuan River Wetlands Park:**
 
 If you cycle out to Holiday beach, this park is a good detour on the way there or back.
 

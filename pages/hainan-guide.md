@@ -56,19 +56,23 @@ title: Hainan Guide
                                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
                                                         <div class="nav flex-column nav-pills" id="v-pills-tab"
                                                                 role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-wenchang-tab"
+                                                                        data-toggle="pill" href="#v-pills-wenchang"
+                                                                        role="tab">Wenchang</a>
                                                                 <a class="nav-link" id="v-pills-coconut-island-tab"
                                                                         data-toggle="pill"
                                                                         href="#v-pills-coconut-island"
                                                                         role="tab">Coconut Island</a>
-                                                                <a class="nav-link" id="v-pills-wenchang-tab"
-                                                                        data-toggle="pill" href="#v-pills-wenchang"
-                                                                        role="tab">Wenchang</a>
                                                                 <a class="nav-link" id="v-pills-tonggu-tab"
                                                                         data-toggle="pill" href="#v-pills-tonggu"
                                                                         role="tab">Tonggu Mountain & Yue Liang Bay </a>
                                                                 <a class="nav-link" id="v-pills-puqian-tab"
                                                                         data-toggle="pill" href="#v-pills-puqian"
                                                                         role="tab">Puqian</a>
+                                                                <a class="nav-link" id="v-pills-wenchang-cyclepath-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-wenchang-cyclepath"
+                                                                        role="tab">Wenchang Cycle Path</a>
 
 
                                                         </div>
@@ -76,67 +80,13 @@ title: Hainan Guide
                                         </div>
                                 </div>
                         </div>
-                        <div class="card" id="activities-card">
-                                <div class="card-header" id="headingThree">
-                                        <h2 class="mb-0">
-                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
-                                                        data-toggle="collapse" data-target="#collapseThree"
-                                                        aria-expanded="false" aria-controls="collapseThree">
-                                                        Activities
-                                                </button>
-                                        </h2>
-                                </div>
-                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                        data-parent="#accordionExample">
-                                        <div class="card-body">
-                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
-                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
-                                                                role="tablist" aria-orientation="vertical">
-                                                                <a class="nav-link" id="v-pills-oldtown-tab"
-                                                                        data-toggle="pill" href="#v-pills-oldtown"
-                                                                        role="tab">Old Town</a>
-                                                                <a class="nav-link" id="v-pills-windsurfing-tab"
-                                                                        data-toggle="pill" href="#v-pills-windsurfing"
-                                                                        role="tab">Windsurfing and Sailing</a>
-                                                                <a class="nav-link" id="v-pills-volcano-tab"
-                                                                        data-toggle="pill" href="#v-pills-volcano"
-                                                                        role="tab">Volcano
-                                                                        Park</a>
-                                                                <a class="nav-link" id="v-pills-parks-tab"
-                                                                        data-toggle="pill" href="#v-pills-parks"
-                                                                        role="tab">Parks</a>
-                                                                <a class="nav-link" id="v-pills-nightlife-tab"
-                                                                        data-toggle="pill" href="#v-pills-nightlife"
-                                                                        role="tab">Nightlife</a>
-                                                                <a class="nav-link" id="v-pills-golf-tab"
-                                                                        data-toggle="pill" href="#v-pills-golf"
-                                                                        role="tab">Golf</a>
-                                                                <a class="nav-link" id="v-pills-public-buildings-tab"
-                                                                        data-toggle="pill"
-                                                                        href="#v-pills-public-buildings"
-                                                                        role="tab">Public Buildings</a>
-                                                                <a class="nav-link" id="v-pills-shopping-tab"
-                                                                        data-toggle="pill" href="#v-pills-shopping"
-                                                                        role="tab">Shopping</a>
-                                                                <a class="nav-link" id="v-pills-studying-tab"
-                                                                        data-toggle="pill" href="#v-pills-studying"
-                                                                        role="tab">Studying Chinese</a>
-                                                                <a class="nav-link" id="v-pills-surrounding-area-tab"
-                                                                        data-toggle="pill"
-                                                                        href="#v-pills-surrounding-area"
-                                                                        role="tab">Surrounding Area</a>
-                                                        </div>
-                                                </div>
-                                        </div>
-                                </div>
-                        </div>
-                        <div class="card" id="history-card">
+                        <div class="card" id="east-card">
                                 <div class="card-header" id="headingFour">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
                                                         data-toggle="collapse" data-target="#collapseFour"
                                                         aria-expanded="false" aria-controls="collapseFour">
-                                                        History and Culture
+                                                        East Hainan - Qionghai County
                                                 </button>
                                         </h2>
                                 </div>
@@ -146,25 +96,24 @@ title: Hainan Guide
                                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
                                                         <div class="nav flex-column nav-pills" id="v-pills-tab"
                                                                 role="tablist" aria-orientation="vertical">
-                                                                <a class="nav-link" id="v-pills-historydecades-tab"
-                                                                        data-toggle="pill"
-                                                                        href="#v-pills-historydecades" role="tab">Haikou
-                                                                        thru the Decades</a>
-                                                                <a class="nav-link" id="v-pills-temples-tab"
-                                                                        data-toggle="pill" href="#v-pills-temples"
-                                                                        role="tab">Temples</a>
+                                                                <a class="nav-link" id="v-pills-qionghai-tab"
+                                                                        data-toggle="pill" href="#v-pills-qionghai"
+                                                                        role="tab">Qionghai</a>
+                                                                <a class="nav-link" id="v-pills-wanquan-tab"
+                                                                        data-toggle="pill" href="#v-pills-wanquan"
+                                                                        role="tab">Wanquan River Rafting</a>
                                                         </div>
                                                 </div>
                                         </div>
                                 </div>
                         </div>
-                        <div class="card" id="transport-card">
+                        <div class="card" id="south-east-card">
                                 <div class="card-header" id="headingFive">
                                         <h2 class="mb-0">
                                                 <button class="btn btn-link btn-block text-left collapsed" type="button"
                                                         data-toggle="collapse" data-target="#collapseFive"
                                                         aria-expanded="false" aria-controls="collapseFive">
-                                                        Transport
+                                                        South East Hainan
                                                 </button>
                                         </h2>
                                 </div>
@@ -174,15 +123,76 @@ title: Hainan Guide
                                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
                                                         <div class="nav flex-column nav-pills" id="v-pills-tab"
                                                                 role="tablist" aria-orientation="vertical">
-                                                                <a class="nav-link" id="v-pills-buses-tab"
-                                                                        data-toggle="pill" href="#v-pills-buses"
-                                                                        role="tab">Buses</a>
-                                                                <a class="nav-link" id="v-pills-taxi-tab"
-                                                                        data-toggle="pill" href="#v-pills-taxi"
-                                                                        role="tab">Taxis</a>
-                                                                <a class="nav-link" id="v-pills-trains-tab"
-                                                                        data-toggle="pill" href="#v-pills-trains"
-                                                                        role="tab">Trains</a>
+                                                                <a class="nav-link" id="v-pills-xincun-tab"
+                                                                        data-toggle="pill" href="#v-pills-xincun"
+                                                                        role="tab">Xincun Town</a>
+                                                                <a class="nav-link" id="v-pills-diaoluoshan-tab"
+                                                                        data-toggle="pill" href="#v-pills-diaoluoshan"
+                                                                        role="tab">Diaoluoshan Nature Reserve</a>
+                                                                <a class="nav-link" id="v-pills-shimei-tab"
+                                                                        data-toggle="pill" href="#v-pills-shimei"
+                                                                        role="tab">Shimei Bay</a>
+                                                                <a class="nav-link" id="v-pills-riyue-tab"
+                                                                        data-toggle="pill" href="#v-pills-riyue"
+                                                                        role="tab">Riyue Bay</a>
+                                                                <a class="nav-link" id="v-pills-dazhou-island-tab"
+                                                                        data-toggle="pill" href="#v-pills-dazhou-island"
+                                                                        role="tab">Dazhou Island</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="card" id="central-card">
+                                <div class="card-header" id="headingCentral">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseCentral"
+                                                        aria-expanded="false" aria-controls="collapseCentral">
+                                                        Central Hainan
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseCentral" class="collapse" aria-labelledby="headingCentral"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-central-intro-tab"
+                                                                        data-toggle="pill" href="#v-pills-central-intro"
+                                                                        role="tab">Central Intro</a>
+                                                                <a class="nav-link" id="v-pills-wuzhishan-tab"
+                                                                        data-toggle="pill" href="#v-pills-wuzhishan"
+                                                                        role="tab">Wuzhishan Nature Reserve</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="card" id="archives-card">
+                                <div class="card-header" id="headingThree">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseThree"
+                                                        aria-expanded="false" aria-controls="collapseThree">
+                                                        Archives
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-wenchang-roadtrip-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-wenchang-roadtrip"
+                                                                        role="tab">Wenchang Road Trip</a>
+                                                                <a class="nav-link" id="v-pills-man-v-wild-tab"
+                                                                        data-toggle="pill" href="#v-pills-man-v-wild"
+                                                                        role="tab">Man v Wild TV Show</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -209,13 +219,12 @@ title: Hainan Guide
                         </div>
                         <div class="tab-pane fade" id="v-pills-luobi-cave" role="tabpanel"
                                 aria-labelledby="v-pills-luobi-cave-tab">
-                                <h2>Luobi Cave</h2>
-                                <p>Located 15km north of Sanya City.</p>
-                                <a
-                                        href="http://en.wikipedia.org/wiki/Luobi_Cave">http://en.wikipedia.org/wiki/Luobi_Cave</a>
+                                {% capture luobi-cave_include %}{% include_relative
+                                hainan-guide/luobi-cave.md
+                                %}{% endcapture %}
 
-                                <div class="mb-5" id="luobi-cave-photos" style="max-width:90%;margin:auto">
-                                </div>
+                                {{ luobi-cave_include | markdownify }}
+
                         </div>
                         <div class="tab-pane fade" id="v-pills-nantian-hotsprings" role="tabpanel"
                                 aria-labelledby="v-pills-nantian-hotsprings-tab">
@@ -268,34 +277,103 @@ title: Hainan Guide
 
                                 {{ puqian_include | markdownify }}
                         </div>
+                        <div class="tab-pane fade" id="v-pills-wenchang-cyclepath" role="tabpanel"
+                                aria-labelledby="v-pills-wenchang-cyclepath-tab">
+                                {% capture wenchang-cyclepath_include %}{% include_relative
+                                hainan-guide/wenchang-cyclepath.md
+                                %}{% endcapture %}
+
+                                {{ wenchang-cyclepath_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-wenchang-roadtrip" role="tabpanel"
+                                aria-labelledby="v-pills-wenchang-roadtrip-tab">
+                                {% capture wenchang-roadtrip_include %}{% include_relative
+                                hainan-guide/wenchang-roadtrip.md
+                                %}{% endcapture %}
+
+                                {{ wenchang-roadtrip_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-qionghai" role="tabpanel"
+                                aria-labelledby="v-pills-qionghai-tab">
+                                {% capture qionghai_include %}{% include_relative
+                                hainan-guide/qionghai.md
+                                %}{% endcapture %}
+
+                                {{ qionghai_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-wanquan" role="tabpanel"
+                                aria-labelledby="v-pills-wanquan-tab">
+                                {% capture wanquan_include %}{% include_relative
+                                hainan-guide/wanquan.md
+                                %}{% endcapture %}
+
+                                {{ wanquan_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-man-v-wild" role="tabpanel"
+                                aria-labelledby="v-pills-man-v-wild-tab">
+                                {% capture man-v-wild_include %}{% include_relative
+                                hainan-guide/man-v-wild.md
+                                %}{% endcapture %}
+
+                                {{ man-v-wild_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-xincun" role="tabpanel"
+                                aria-labelledby="v-pills-xincun-tab">
+                                {% capture xincun_include %}{% include_relative
+                                hainan-guide/xincun.md
+                                %}{% endcapture %}
+
+                                {{ xincun_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-diaoluoshan" role="tabpanel"
+                                aria-labelledby="v-pills-diaoluoshan-tab">
+                                {% capture diaoluoshan_include %}{% include_relative
+                                hainan-guide/diaoluoshan.md
+                                %}{% endcapture %}
+
+                                {{ diaoluoshan_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-shimei" role="tabpanel"
+                                aria-labelledby="v-pills-shimei-tab">
+                                {% capture shimei_include %}{% include_relative
+                                hainan-guide/shimei.md
+                                %}{% endcapture %}
+
+                                {{ shimei_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-riyue" role="tabpanel"
+                                aria-labelledby="v-pills-riyue-tab">
+                                {% capture riyue_include %}{% include_relative
+                                hainan-guide/riyue.md
+                                %}{% endcapture %}
+
+                                {{ riyue_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-dazhou-island" role="tabpanel"
+                                aria-labelledby="v-pills-dazhou-island-tab">
+                                {% capture dazhou-island_include %}{% include_relative
+                                hainan-guide/dazhou-island.md
+                                %}{% endcapture %}
+
+                                {{ dazhou-island_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-wuzhishan" role="tabpanel"
+                                aria-labelledby="v-pills-wuzhishan-tab">
+                                {% capture wuzhishan_include %}{% include_relative
+                                hainan-guide/wuzhishan.md
+                                %}{% endcapture %}
+
+                                {{ wuzhishan_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-central-intro" role="tabpanel"
+                                aria-labelledby="v-pills-central-intro-tab">
+                                {% capture central-intro_include %}{% include_relative
+                                hainan-guide/central-intro.md
+                                %}{% endcapture %}
+
+                                {{ central-intro_include | markdownify }}
+                        </div>
                 </div>
 
         </div>
 </div>
-
-
-
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-        // luobi cave galleries
-        const luobiCave = cloudinary.galleryWidget({
-                "container": "#luobi-cave-photos",
-                "cloudName": "dfjb9p5ri",
-                "displayProps": {
-                        "mode": "expanded",
-                        "columns": 3
-                },
-                "mediaAssets": [{ tag: "luobi-cave" }],
-                "zoomProps": { "type": "popup", "trigger": "click" }
-        });
-
-
-        document.getElementById("v-pills-luobi-cave-tab").addEventListener('click', () => {
-                console.log("render galleries");
-                luobiCave.render();
-        })
-
-
-</script>

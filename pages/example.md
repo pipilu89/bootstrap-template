@@ -58,3 +58,7 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 
 <https://www.markdownguide.org>
 <fake@example.com>
+
+
+Display headings
+{:.display-3}

@@ -1,4 +1,7 @@
 ## Sanya
+
+Sanya (in Hainanese, Tam A, pronounced "Dumb Ah") is the tropical resort at the southern end of Hainan that everyone seems to be going to. If you like beach resorts and tropical weather, it's a great place to go, but expect crowds of tourists, particularly at peak seasons. Don't forget, there is a lot more to Hainan than Sanya...
+
 Sanya is the second largest city, after Haikou, in Hainan. It is situated on the southern most tip of the island. Central Sanya has a population of around 150,000. If you include the surrounding area the population is more like 400,000. This population includes Han, Hui, Miao, and Li nationalities. Sanya is the main tourist area on Hainan. You can divide Sanya into 3 areas: Sanya city, Dadonghai Bay, and Yalong Bay.
 
 **Yalong Bay**

@@ -35,3 +35,12 @@ $theme-colors: map-merge(
 @import
   "theme-colors", "template", "custom"
 ;
+
+
+blockquote {
+  color: #111;
+  border-left: 4px solid #04AA6D;
+  padding-left: 15px;
+  font-size: 1.125rem;
+  font-style: italic;
+}

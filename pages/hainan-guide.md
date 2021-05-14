@@ -161,10 +161,47 @@ title: Hainan Guide
                                                                 role="tablist" aria-orientation="vertical">
                                                                 <a class="nav-link" id="v-pills-central-intro-tab"
                                                                         data-toggle="pill" href="#v-pills-central-intro"
-                                                                        role="tab">Central Intro</a>
+                                                                        role="tab">Central Hainan Intro</a>
                                                                 <a class="nav-link" id="v-pills-wuzhishan-tab"
                                                                         data-toggle="pill" href="#v-pills-wuzhishan"
                                                                         role="tab">Wuzhishan Nature Reserve</a>
+                                                                <a class="nav-link" id="v-pills-central-highway-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-central-highway"
+                                                                        role="tab">Driving the Central Highway</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="card" id="west-card">
+                                <div class="card-header" id="headingWest">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseWest"
+                                                        aria-expanded="false" aria-controls="collapseWest">
+                                                        West Hainan
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseWest" class="collapse" aria-labelledby="headingWest"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-west-intro-tab"
+                                                                        data-toggle="pill" href="#v-pills-west-intro"
+                                                                        role="tab">West Hainan Intro</a>
+                                                                <a class="nav-link" id="v-pills-changjiang-tab"
+                                                                        data-toggle="pill" href="#v-pills-changjiang"
+                                                                        role="tab">Changjiang</a>
+                                                                <a class="nav-link" id="v-pills-jianfengling-tab"
+                                                                        data-toggle="pill" href="#v-pills-jianfengling"
+                                                                        role="tab">Jianfengling Nature Reserve</a>
+                                                                <a class="nav-link" id="v-pills-bawangling-tab"
+                                                                        data-toggle="pill" href="#v-pills-bawangling"
+                                                                        role="tab">Bawangling Nature Reserve</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -372,6 +409,46 @@ title: Hainan Guide
                                 %}{% endcapture %}
 
                                 {{ central-intro_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-central-highway" role="tabpanel"
+                                aria-labelledby="v-pills-central-highway-tab">
+                                {% capture central-highway_include %}{% include_relative
+                                hainan-guide/central-highway.md
+                                %}{% endcapture %}
+
+                                {{ central-highway_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-west-intro" role="tabpanel"
+                                aria-labelledby="v-pills-west-intro-tab">
+                                {% capture west-intro_include %}{% include_relative
+                                hainan-guide/west-intro.md
+                                %}{% endcapture %}
+
+                                {{ west-intro_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-changjiang" role="tabpanel"
+                                aria-labelledby="v-pills-changjiang-tab">
+                                {% capture changjiang_include %}{% include_relative
+                                hainan-guide/changjiang.md
+                                %}{% endcapture %}
+
+                                {{ changjiang_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-jianfengling" role="tabpanel"
+                                aria-labelledby="v-pills-jianfengling-tab">
+                                {% capture jianfengling_include %}{% include_relative
+                                hainan-guide/jianfengling.md
+                                %}{% endcapture %}
+
+                                {{ jianfengling_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-bawangling" role="tabpanel"
+                                aria-labelledby="v-pills-bawangling-tab">
+                                {% capture bawangling_include %}{% include_relative
+                                hainan-guide/bawangling.md
+                                %}{% endcapture %}
+
+                                {{ bawangling_include | markdownify }}
                         </div>
                 </div>
 

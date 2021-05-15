@@ -1,5 +1,7 @@
 ## Road Trip around North of Wenchang.
 
+> 2020 Update: A lot of new roads have been build in this area, so getting around is much easier.
+
 Date: 2010.
 
 North East Coast of Hainan. Closest village - Shanya, closest town -  Jinshan
@@ -10,6 +12,6 @@ Explored a little more of the North West of Hainan Island. The road to the coast
 
 A large field of papaya trees caught my attention because the majority of the tree were growing horizontal as opposed to straight up. An unusual sight, I guess caused by strong coastal winds. The beach was clean except for masses of washed up coral. I think the small fishing boats break the coral. Judging by the amount of coral on the beach there must be some fairly substantial reefs out there.
 
-**photo Gallery**
+**Photo Gallery**
 
 [Road Trip around North of Wenchang Photos]({% link pages/hainan-guide/wenchang-roadtrip-photos.md %}){:target="_blank"}

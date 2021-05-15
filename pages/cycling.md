@@ -12,7 +12,8 @@ Bring your own bike to Hainan or rent one from a bicycle shop in Haikou or the B
 
 Road conditions around Hainan vary widely, from bumpy mud tracks to good modern asphalt roads. 
 
-![cycling in hainan](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg)
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg"
+alt="cycling in Hainan" caption="cycling in Hainan" %}
 
 ## Bicycle Rental in Hainan
 

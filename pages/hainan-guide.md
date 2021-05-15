@@ -169,6 +169,9 @@ title: Hainan Guide
                                                                         data-toggle="pill"
                                                                         href="#v-pills-central-highway"
                                                                         role="tab">Driving the Central Highway</a>
+                                                                <a class="nav-link" id="v-pills-baisha-tab"
+                                                                        data-toggle="pill" href="#v-pills-baisha"
+                                                                        role="tab">Baisha County</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -202,6 +205,48 @@ title: Hainan Guide
                                                                 <a class="nav-link" id="v-pills-bawangling-tab"
                                                                         data-toggle="pill" href="#v-pills-bawangling"
                                                                         role="tab">Bawangling Nature Reserve</a>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="card" id="north-west-card">
+                                <div class="card-header" id="headingNorthWest">
+                                        <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                                        data-toggle="collapse" data-target="#collapseNorthWest"
+                                                        aria-expanded="false" aria-controls="collapseNorthWest">
+                                                        North-West Hainan
+                                                </button>
+                                        </h2>
+                                </div>
+                                <div id="collapseNorthWest" class="collapse" aria-labelledby="headingNorthWest"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                                                        <div class="nav flex-column nav-pills" id="v-pills-tab"
+                                                                role="tablist" aria-orientation="vertical">
+                                                                <a class="nav-link" id="v-pills-north-west-intro-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-north-west-intro"
+                                                                        role="tab">North West Hainan Intro</a>
+                                                                <a class="nav-link" id="v-pills-meilang-towers-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-meilang-towers"
+                                                                        role="tab">Meilang Twin Pagodas</a>
+                                                                <a class="nav-link" id="v-pills-yangpu-saltfield-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-yangpu-saltfield"
+                                                                        role="tab">Yangpu Saltfield</a>
+                                                                <a class="nav-link"
+                                                                        id="v-pills-boatbuilders-linggao-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-boatbuilders-linggao"
+                                                                        role="tab">Linggao Boat Builders</a>
+                                                                <a class="nav-link" id="v-pills-laocheng-waterfall-tab"
+                                                                        data-toggle="pill"
+                                                                        href="#v-pills-laocheng-waterfall"
+                                                                        role="tab">Laocheng Waterfall</a>
                                                         </div>
                                                 </div>
                                         </div>
@@ -449,6 +494,62 @@ title: Hainan Guide
                                 %}{% endcapture %}
 
                                 {{ bawangling_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-bawangling" role="tabpanel"
+                                aria-labelledby="v-pills-bawangling-tab">
+                                {% capture bawangling_include %}{% include_relative
+                                hainan-guide/bawangling.md
+                                %}{% endcapture %}
+
+                                {{ bawangling_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-north-west-intro" role="tabpanel"
+                                aria-labelledby="v-pills-north-west-intro-tab">
+                                {% capture north-west-intro_include %}{% include_relative
+                                hainan-guide/north-west-intro.md
+                                %}{% endcapture %}
+
+                                {{ north-west-intro_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-meilang-towers" role="tabpanel"
+                                aria-labelledby="v-pills-meilang-towers-tab">
+                                {% capture meilang-towers_include %}{% include_relative
+                                hainan-guide/meilang-towers.md
+                                %}{% endcapture %}
+
+                                {{ meilang-towers_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-yangpu-saltfield" role="tabpanel"
+                                aria-labelledby="v-pills-yangpu-saltfield-tab">
+                                {% capture yangpu-saltfield_include %}{% include_relative
+                                hainan-guide/yangpu-saltfield.md
+                                %}{% endcapture %}
+
+                                {{ yangpu-saltfield_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-boatbuilders-linggao" role="tabpanel"
+                                aria-labelledby="v-pills-boatbuilders-linggao-tab">
+                                {% capture boatbuilders-linggao_include %}{% include_relative
+                                hainan-guide/boatbuilders-linggao.md
+                                %}{% endcapture %}
+
+                                {{ boatbuilders-linggao_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-laocheng-waterfall" role="tabpanel"
+                                aria-labelledby="v-pills-laocheng-waterfall-tab">
+                                {% capture laocheng-waterfall_include %}{% include_relative
+                                hainan-guide/laocheng-waterfall.md
+                                %}{% endcapture %}
+
+                                {{ laocheng-waterfall_include | markdownify }}
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-baisha" role="tabpanel"
+                                aria-labelledby="v-pills-baisha-tab">
+                                {% capture baisha_include %}{% include_relative
+                                hainan-guide/baisha.md
+                                %}{% endcapture %}
+
+                                {{ baisha_include | markdownify }}
                         </div>
                 </div>
 

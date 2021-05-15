@@ -1,11 +1,7 @@
 ---
-title: Home
+title: Welcome to the Haikou Banana Hostel Website
 layout: page
 ---
-
-{% include jumbotron.html text="here is some text" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" title=site.title lead="How to get to Banana Hostel" btn-text="Learn More" btn-link="hostel-location.html" %}
-
-Welcome to the Haikou Banana Hostel Website.
 
 <div class="row mt-5 justify-content-center">
   
@@ -22,7 +18,7 @@ Welcome to the Haikou Banana Hostel Website.
 
 </div>
 
-## Hainan Travel Guides
+## Hainan Travel Guides 
 
 <div class="row mt-5 justify-content-center">
   
@@ -30,7 +26,7 @@ Welcome to the Haikou Banana Hostel Website.
 
 <!-- https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617949584/haikou/Haikou_City_pineapplelady.jpg -->
 
-{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hainan-guide.html" %}
+{% include card.html text="Guide to the rest of Hainan Island" header="Hainan" btn-text="Learn More" btn-link="hainan-guide.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1620910646/hainan/shimei/shimei2_y8bhsh.jpg" %}
 
 </div>
 
@@ -38,11 +34,13 @@ Welcome to the Haikou Banana Hostel Website.
   
 {% include card.html text="Cycling is popular in Hainan, here you can find out more about cycle routes and bike rental etc." header="Cycling in Hainan" btn-text="Learn More" btn-link="cycling.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1617460146/cycling/Cycling_20in_20Hainan_rkdb4s.jpg" %}
 
-{% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" btn-text="Learn More" btn-link="get-to-hainan.html" %}
+{% include card.html text="How to get to Hainan Island. Info about trains, planes and buses." header="Get to Hainan" btn-text="Learn More" btn-link="get-to-hainan.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1621079148/hainan/Hainan-map_bcqzbm.png" %}
 
 </div>
 <div class="row mt-5 justify-content-center">
 
-{% include card.html text="Volcano Park." header="Volcano Park" btn-text="Learn More" btn-link="haikou-guide/haikou-volcano-park.html" %}
+{% include card.html text="Some blog articles about camping in Hainan." header="Camping in Hainan" btn-text="Camping" btn-link="camping-hainan.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1621077887/hainan/wanquan-camping/Wanquan_Hainan24_qordvn.jpg" %}
+
+{% include card.html text="Some blog articles about surfing in Hainan." header="Surfing in Hainan"  btn-link="surfing.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1618067907/hainan/surfing-hainan/sho_web_2_ghwcz8.jpg" %}
 
 </div>

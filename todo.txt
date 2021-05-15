@@ -1,6 +1,8 @@
+bug: hainan guide if click section pill then another section pill, then the previous pill is not unselected(active/not-active, blue styling), meaning you cant click it again.
+
 homepage- make the whole card a link eg firefox starting page.
 
-.nav-link{color:rgba(255,255,255,.5)}
+central hainan: add baisha.
 ---
 UPDATE INFO: wanquan rafting contact details.
 UPDATE INFO:

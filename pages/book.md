@@ -1,7 +1,7 @@
 ---
 title: Book a Room
 nav: Book
-nav_order: 4
+nav_order: 3
 ---
 
 You can use any of these methods to book a room

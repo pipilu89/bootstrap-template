@@ -1,7 +1,7 @@
 ---
 title: Hostel Room and Prices
 nav: Rooms
-nav_order: 3
+nav_order: 2
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Photos of Haikou Banana Hostel
 nav: Photos
-nav_order: 2
+nav_order: 1
 gallerytag: hostel-property
 ---
 

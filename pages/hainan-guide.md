@@ -1,5 +1,6 @@
 ---
 title: Hainan Guide
+meta_description: Guide to Hainan Island. Learn about the different parts of Hainan. Info you will not find in other Hainan travel guides.
 ---
 
 <div class="row">

@@ -1,5 +1,6 @@
 ---
 title: Haikou Guide
+meta_description: Guide to Haikou City. Learn about Haikou, the tropical capital of Hainan island.
 ---
 
 <div class="row">

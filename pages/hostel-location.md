@@ -3,9 +3,10 @@ layout: page
 title: Location of Haikou Banana Hostel
 nav: Location
 nav_order: 4
+meta_description: How to find Haikou Banana Hostel. Haikou Banana Hostel is located in the North-East of Haikou City. We are on a large island called Haidian Dao.
 ---
 
-Haikou Hostel is located in the North-East of Haikou City. We are on a large island called Haidian Dao (海甸岛).
+Haikou Banana Hostel is located in the North-East of Haikou City. We are on a large island called Haidian Dao (海甸岛).
 
 We are located down an alley on Renmin Avenue (Chinese: Renmin Dadao 人民大道).
 

@@ -45,11 +45,15 @@ Included in assets/lib folder:
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.1.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
 
+## Photos
+
 **Photo Gallery:**
 open in new tab.
+
 [Tongguling National Nature Reserve Photos]({% link pages/hainan-guide/tonggu-photos.md %}){:target="_blank"}
 
 **picture with caption (figure)**
+
 {% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1620646795/hainan/tonggu/Stone-Park-03_mbnlxu.jpg"
 alt="Stone Park" caption="Stone Park" %}
 
@@ -60,3 +64,12 @@ enable images to resize on different size screens.
 eg `![single room](https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906829/hostel-rooms/Single-room_bbigee.jpg){:.img-fluid}`
 
 add `{:.img-fluid}` directly after image url
+
+## page specific meta description
+
+include 'meta_description' variable in frontmatter for article header meta description. if none will default to site description. Meta descriptions can be any length, but Google generally truncates snippets to ~155–160 characters. It's best to keep meta descriptions long enough that they're sufficiently descriptive, so we recommend descriptions between 50–160 characters.
+
+---
+title: Cycling in Hainan
+meta_description: Learn about cycling on Hainan and Haikou, including bike rental, bike shops, and cycling routes.
+---

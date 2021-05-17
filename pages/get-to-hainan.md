@@ -1,5 +1,6 @@
 ---
 title: Get to Hainan
+meta_description: Learn about getting to Hainan. There are 3 main ways to get to Hainan Island; plane, train & bus...
 ---
 
 There are 3 main ways to get to Hainan Island: plane, train & bus. There are frequent flights from all major Chinese cities and Hong-Kong to Haikou airport. Trains and buses can be taken from the Guandong province and all over the Chinese mainland. These are loaded on to ferries to cross over the sea to the island.

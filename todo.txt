@@ -1,5 +1,3 @@
-language
-
 metadata
 
 google analytics/ bing
@@ -8,7 +6,14 @@ bug: hainan guide if click section pill then another section pill, then the prev
 
 homepage- make the whole card a link eg firefox starting page.
 
-central hainan: add baisha.
+v2:
+- expat section
+- room type additional photos.
+- update to bootstrap v5.
+- fixed position accordion for guides.
+- fixed position scrollspy for cycling page
+- footer site date year generate from javascript.
+- hebrew price table.
 ---
 UPDATE INFO: wanquan rafting contact details.
 UPDATE INFO:

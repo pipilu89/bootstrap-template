@@ -1,5 +1,6 @@
 ---
 title: Cycling in Hainan
+meta_description: Learn about cycling on Hainan and Haikou, including bike rental, bike shops, and cycling routes.
 ---
 
 Cycling has become a popular activity on Hainan. Both Chinese and foreigners enjoy exploring Hainan by bike. Maybe you just want to cycle a few kilometers in the afternoon, or perhaps your planning a trip to cycle around Hainan Island. Either way this section contains some useful information.
@@ -192,9 +193,27 @@ Haikou's old town centre is about 1km south of the hostel. To get there head sou
 
 ### Banana Hostel to Holiday Beach
 
-This route will take you to Holiday beach. Take a diversion at Evergreen Park and cross the bridge into the new marina area. You can also take a detour into Changming Village and Wuyuan River Park.
+This route will take you to Holiday beach. Take a left at the Clock Tower and follow the new cycle path along Haidian river, under century bridge, and past the iconic Wormhole library. Continue on to Evergreen park. Keep following Binhai Road as it becomes a coastal road, leading to the beaches in the west of Haikou.
+
+You can also take a detour into Changming Village and Wuyuan River Park.
+
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1621225493/cycling/banana-to-holiday-beach_r30qqj.jpg"
+alt="Banana Hostel to Holiday Beach" caption="Banana Hostel to Holiday Beach" %}
 
 ### Banana Hostel to Wugong Temple via canal
 
 There is a canal that runs through the east of Haikou. Along the canal is a path suitable for cycling. This is an easy way to see some of the city while avoiding motorised traffic. The canal leads to Wugong Temple. You can come back to the hostel along the Nandu river to complete the loop.
+
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1617463581/cycling/banana-hostel-to-wugong-temple-via-canal/canal-cycle-path_j1lojf.png"
+alt="Banana Hostel to Wugong Temple via canal" caption="Banana Hostel to Wugong Temple via canal" %}
+
+
+## Cycle routes south of Haikou City
+
+The Longhua area is an old volcanic area (there are no active volcanoes). The area has abundant amounts of volcanic rock just beneath the top-soil. As a result, you can find many rock cutting factories, quarries, and some small ancient lava rock villages. The roads are generally small concrete or tarmac affairs interconnecting the small farming villages. Most of the area is tropical countryside. Traffic is sparse apart from around the new Mission Hills Golf Resort where there is construction and big trucks moving lava rock. The altitude is roughly sea level and largely flat.
+
+The map below shows the Longhua District cycling area (the red square) in relation to Haikou city. The cycling area is south of Haikou city, inbetween the central highway and the eastern expressway. Paths suitable for cycling begin on the southern side of Yehai Avenue (椰海大道), which is basically the edge of the built up city.
+
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1621225718/cycling/south-haikou-yangshan-cycling-area.png"
+alt="Yangshan cycling area map" caption="Yangshan cycling area map" %}
 

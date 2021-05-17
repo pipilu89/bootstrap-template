@@ -7,7 +7,7 @@ layout: page
   
 {% include card.html text="Photos and basic info about Haikou Banana Hostel" header="Hostel Photos" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/w_400/v1616910244/hostel-property/hostel-oct201613_ms3xhb.jpg" btn-text="Learn More" btn-link="about.html" %}
 
-{% include card.html text="Pictures of rooms and their prices" header="Rooms and Prices" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" btn-text="Learn More" btn-link="hostel-room-prices.html" %}
+{% include card.html text="Pictures of hostel rooms and their prices" header="Rooms and Prices" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" btn-text="Learn More" btn-link="hostel-room-prices.html" %}
 
 </div>
 <div class="row mt-5 justify-content-center">

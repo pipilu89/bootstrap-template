@@ -2,6 +2,7 @@
 title: Book a Room
 nav: Book
 nav_order: 3
+meta_description: Book a room directly at Haikou Banana Hostel to save booking fees!
 ---
 
 You can use any of these methods to book a room

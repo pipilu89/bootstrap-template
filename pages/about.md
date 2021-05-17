@@ -3,6 +3,7 @@ title: Photos of Haikou Banana Hostel
 nav: Photos
 nav_order: 1
 gallerytag: hostel-property
+meta_description: We are a family run hostel in Haikou City, which is the capital of Hainan Island. Our hostel has both dormitory beds and private rooms.
 ---
 
 We are a family run hostel in Haikou City, which is the capital of Hainan Island. Our hostel has both dormitory beds and private rooms. All rooms have a private bathroom with shower, air-conditioning and free wi-fi. We are located in a convienent area of Haikou City, close to Hainan University.

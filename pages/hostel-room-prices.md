@@ -2,6 +2,7 @@
 title: Hostel Room and Prices
 nav: Rooms
 nav_order: 2
+meta_description: Haikou Banana Hostel has different room types and prices to suit your budget.
 ---
 
 

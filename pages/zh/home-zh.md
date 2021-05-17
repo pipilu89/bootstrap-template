@@ -2,6 +2,7 @@
 title: 海口巴纳纳国际青年旅舍
 nav: <img src="assets/images/zh.bmp" alt="中文" >
 nav_order: 6
+meta_description: 海口巴纳纳国际青年旅舍主要接待世界各地青年旅行者,是一个国际性的家庭式廉价旅馆。
 ---
 
 

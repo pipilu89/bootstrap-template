@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Haikou Banana Hostel Website
+title: Welcome to the Haikou Banana Hostel Website, Hainan Island
 layout: page
 ---
 

@@ -1,4 +1,9 @@
-metadata
+Best Practices
+Trust and Safety
+Links to cross-origin destinations are unsafe
+Add `rel="noopener"` or `rel="noreferrer"` to any external links to improve performance and prevent security vulnerabilities. Learn more.
+
+--
 
 google analytics/ bing
 

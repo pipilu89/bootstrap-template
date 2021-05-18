@@ -18,8 +18,8 @@ The Hainan Museum opened in 2009 and will give you an insight into the history o
 
 ### Haikou Stadium
 
-![Haikou Stadium](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1619528824/haikou/public-buildings/haikou-stadium.jpg){:.img-fluid}
-_Haikou Stadium_
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/c_thumb,g_center,w_600/v1619528824/haikou/public-buildings/haikou-stadium.jpg"
+alt="Haikou Stadium" caption="Haikou Stadium" %}
 
 Haikou Stadium is located in the west of the city.
 

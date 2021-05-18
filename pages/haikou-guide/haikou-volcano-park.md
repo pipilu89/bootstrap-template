@@ -75,12 +75,12 @@ Haikou Volcano map:
 
 Map of the volcano tourist park:
 
-![map of volcano tourist park](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147477/haikou/volcano/map_of_volcano_tourist_park_hycgdv.jpg){:.img-fluid}
+![map of volcano tourist park](https://res.cloudinary.com/dfjb9p5ri/image/upload/c_thumb,g_center,w_600/v1618147477/haikou/volcano/map_of_volcano_tourist_park_hycgdv.jpg){:.img-fluid}
 
 Map of whole of protected volcano park:
 
-![map of whole of protected volcano park](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147478/haikou/volcano/map_of_whole_of_protected_volcano_park_j54fxw.jpg){:.img-fluid}
+![map of whole of protected volcano park](https://res.cloudinary.com/dfjb9p5ri/image/upload/c_thumb,g_center,w_600/v1618147478/haikou/volcano/map_of_whole_of_protected_volcano_park_j54fxw.jpg){:.img-fluid}
 
 Chinese map of volcano park location:
 
-![chinese map of volcano park location](https://res.cloudinary.com/dfjb9p5ri/image/upload/v1618147476/haikou/volcano/chinese_map_of_volcano_park_location_y2jsmk.jpg){:.img-fluid}
+![chinese map of volcano park location](https://res.cloudinary.com/dfjb9p5ri/image/upload/c_thumb,g_center,w_600/v1618147476/haikou/volcano/chinese_map_of_volcano_park_location_y2jsmk.jpg){:.img-fluid}

@@ -534,8 +534,8 @@ meta_description: Guide to Haikou City. Learn about Haikou, the tropical capital
 
 </div>
 
-<!-- <script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script> -->
-<script src="/assets/lib/cloudinary.product-gallery.all.js" type="text/javascript"></script>
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript"></script>
+<!-- <script src="/assets/lib/cloudinary.product-gallery.all.js" type="text/javascript"></script> -->
 
 <script type="text/javascript">
 

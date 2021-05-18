@@ -7,6 +7,7 @@ bug: hainan guide if click section pill then another section pill, then the prev
 homepage- make the whole card a link eg firefox starting page.
 
 v2:
+- cloudinary product gallery blocking haikou guide.
 - expat section
 - room type additional photos.
 - update to bootstrap v5.

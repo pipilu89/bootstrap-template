@@ -11,7 +11,7 @@ Both are on the south-east coast of Hainan.
 
 **Riyue Bay** is close to the Eastern Expressway in the southern part of Wanning County. There are several surf shops and hotels there. Riyue Bay has hosted many international surf competitions since around 2009.
 
-Here is the website of one of the longest running surf clubs in Riyue Bay: <http://www.surfinghainan.com/>{:target="_blank"}.
+Here is the website of one of the longest running surf clubs in Riyue Bay: <http://www.surfinghainan.com/>{:target="_blank" rel="noreferrer"}.
 
 **Houhai** has lots of guest houses on the beach front and is also a popular place for surfers from mainland China. It is located in between Haitang Bay and Yalong Bay.
 

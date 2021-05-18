@@ -8,7 +8,7 @@ Further inland the scale of the mining diminished and gave way to winding mounta
 
 Check out this link if you want to read more about Hainan Li mud houses: 
 
-<http://www.cjvlang.com/Photos/hlaihouse/hlaihouse.html>{:target="_blank"}
+<http://www.cjvlang.com/Photos/hlaihouse/hlaihouse.html>{:target="_blank" rel="noreferrer"}
 
 **Photos of Changjiang**
 

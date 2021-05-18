@@ -17,7 +17,7 @@ Dongfang is located on the west coast of Hainan. It has an industrial port used 
 
 In the 1940s there was a Japanese POW camp here, holding Chinese, Austrailian, and Dutch prisoners:
 
-<http://www.mansell.com/pow_resources/hainan.html>{:target="_blank"}
+<http://www.mansell.com/pow_resources/hainan.html>{:target="_blank" rel="noreferrer"}
 
 **Emperor cave (皇帝洞 Huángdì dòng) & Wangxia Underground Palace (王下地下宫 Wángxià dìxià gōng)**
 
@@ -27,7 +27,7 @@ Emperor cave is a large limestone cave, 60 kilometers from the county capital Ch
 
 The second largest tributary of the important Changhua River. Length of 41 kilometers, drainage area of 371 square kilometers, with a total drop of 1347 meters. Nanyao river is very scenic because it runs through a karst valley (hence the abundance of caves in the area). Part of the river is known locally as 'Mural Corridor' (十画长廊) because of the colourful karst cliffs towering over the river.
 
-Chinese travel blog with many photos of area <https://www.mafengwo.cn/i/20101090.html>{:target="_blank"}
+Chinese travel blog with many photos of area <https://www.mafengwo.cn/i/20101090.html>{:target="_blank" rel="noreferrer"}
 
 **Qicha Township Kapok Trees (七叉乡木棉 Qīcha xiāng Mùmián)**
 

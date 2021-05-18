@@ -50,7 +50,7 @@ Included in assets/lib folder:
 **Photo Gallery:**
 open in new tab.
 
-[Tongguling National Nature Reserve Photos]({% link pages/hainan-guide/tonggu-photos.md %}){:target="_blank"}
+[Tongguling National Nature Reserve Photos]({% link pages/hainan-guide/tonggu-photos.md %}){:target="_blank" rel="noreferrer"}
 
 **picture with caption (figure)**
 

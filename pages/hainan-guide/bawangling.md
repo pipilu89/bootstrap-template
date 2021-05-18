@@ -10,9 +10,9 @@ Bawangling Nature Reserve is located in the southwest of Hainan in Changjiang Co
 
 They are said to be over 365 kinds of animal species, including rare animals such as the Hainan Black Crested Gibbon, clouded leopard, black bear, deer, and monitor lizards. It is one of the few remaining homes of the black crested gibbon on earth.
 
-The Hainan Gibbon is considered to be the world's rarest ape. Numbers are around 20-30. But there is still hope for the Hainan Gibbon； according to this article the population is increasing <http://www.mnn.com/earth-matters/animals/blogs/newfound-family-offers-hope-earths-rarest-ape>{:target="_blank"} (updated 2020).
+The Hainan Gibbon is considered to be the world's rarest ape. Numbers are around 20-30. But there is still hope for the Hainan Gibbon； according to this article the population is increasing <http://www.mnn.com/earth-matters/animals/blogs/newfound-family-offers-hope-earths-rarest-ape>{:target="_blank" rel="noreferrer"} (updated 2020).
 
-Back in 2003 Seacology.org (a nonprofit organisation) started a program to protect the Hainan Gibbons at Bawangling Reserve. They persuaded local villages to protect the Gibbon habitat by offering scholarships to village children. Find out more info on their website:  <http://www.seacology.org/project/96-china/>{:target="_blank"}.
+Back in 2003 Seacology.org (a nonprofit organisation) started a program to protect the Hainan Gibbons at Bawangling Reserve. They persuaded local villages to protect the Gibbon habitat by offering scholarships to village children. Find out more info on their website:  <http://www.seacology.org/project/96-china/>{:target="_blank" rel="noreferrer"}.
 
 Pictures of a very old tree in the Bawangling park:
 

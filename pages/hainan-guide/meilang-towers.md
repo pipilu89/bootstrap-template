@@ -15,4 +15,4 @@ The pagodas are beautifully carved, decorated with Buddha, lotus petal, elephant
 alt="Meilang Twin Pagodas" caption="Meilang Twin Pagodas" %}
 
 More photos:
-<https://www.flickr.com/photos/hainanconnection/4391017917/>{:target="_blank"}
+<https://www.flickr.com/photos/hainanconnection/4391017917/>{:target="_blank" rel="noreferrer"}

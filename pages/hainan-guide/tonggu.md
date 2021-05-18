@@ -23,7 +23,7 @@ In the following few days I purchased some snorkeling equipment locally (not the
 
 The right day came and I had a fun day exploring the area with a few friends. Visibility was probably around 2-3 metres. We saw lots of coral and quite a few small fish. Do not try to pick up sea urchins because they can fire their spikes into your hand as a friend learnt the hard way. I think there are probably many decent spots around the island to snorkel. It’s just a matter of going out and finding them. An excellent inexpensive day out.
 
-Swell and wind forecasts: <http://magicseaweed.com/South-East-Asia-MSW-Surf-Charts/71/>{:target="_blank"}
+Swell and wind forecasts: <http://magicseaweed.com/South-East-Asia-MSW-Surf-Charts/71/>{:target="_blank" rel="noreferrer"}
 
 
 **Photos of Tonggu**

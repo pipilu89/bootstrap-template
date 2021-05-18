@@ -24,7 +24,7 @@ The park is home to 7 species of animal that are protected at the national level
 
 Jianfengling Reserve has a peak elevation of 1412 m. Vegetation varies with altitude. Below 800m you will find rain forests, above this level the forests turn into pine and alpine forests.
 
-Information source: <http://www.hainan.gov.cn>{:target="_blank"}
+Information source: <http://www.hainan.gov.cn>{:target="_blank" rel="noreferrer"}
 
 **Photos of Jianfengling**
 

@@ -14,4 +14,4 @@ The most prominent attraction in Danzhou is the ancient Dongpo Academy of Classi
 
 **Danzhou International Marathon**
 
-Since around 2010 there has been an annual international marathon in Danzhou County. Usually take place in December: <http://www.danma.cn/>{:target="_blank"}.
+Since around 2010 there has been an annual international marathon in Danzhou County. Usually take place in December: <http://www.danma.cn/>{:target="_blank" rel="noreferrer"}.

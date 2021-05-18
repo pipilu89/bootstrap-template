@@ -20,7 +20,7 @@ alt="Wangxia Village" caption="Wangxia Village" %}
 alt="Emperor Cave" caption="Emperor Cave" %}
 {% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1621001475/hainan/%20chanjiang/chanjiang-county-hainan101_ew4ti1.jpg"
 alt="Daguangba reservoir" caption="Daguangba reservoir" %}
-{% include figure.html img="hhttps://res.cloudinary.com/dfjb9p5ri/image/upload/v1621001475/hainan/%20chanjiang/chanjiang-county-hainan104_glctid.jpg"
+{% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1621001475/hainan/%20chanjiang/chanjiang-county-hainan104_glctid.jpg"
 alt="Daguangba reservoir" caption="Daguangba reservoir" %}
 {% include figure.html img="https://res.cloudinary.com/dfjb9p5ri/image/upload/v1621001475/hainan/%20chanjiang/chanjiang-county-hainan107_cp89h7.jpg"
 alt="Daguangba reservoir" caption="Daguangba reservoir" %}

@@ -69,6 +69,7 @@ add `{:.img-fluid}` directly after image url
 
 include 'meta_description' variable in frontmatter for article header meta description. if none will default to site description. Meta descriptions can be any length, but Google generally truncates snippets to ~155–160 characters. It's best to keep meta descriptions long enough that they're sufficiently descriptive, so we recommend descriptions between 50–160 characters.
 
+example:
 ---
 title: Cycling in Hainan
 meta_description: Learn about cycling on Hainan and Haikou, including bike rental, bike shops, and cycling routes.

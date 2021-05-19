@@ -29,7 +29,9 @@ Options:
         <div class="card-text">
             {{ include.text | markdownify }}
         </div>
-        {% if include.btn-link %}<a class="btn btn-primary btn-lg" href="{{ include.btn-link }}">{{ include.header
-            }}</a>{% endif %}
+    </div>
+    <div class="card-footer ">
+        {% if include.btn-link %}<a class="btn btn-primary btn-lg " href="{{ include.btn-link }}">
+            {{include.header}}</a>{% endif %}
     </div>
 </div>

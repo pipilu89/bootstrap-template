@@ -45,5 +45,8 @@ layout: page
 
 </div>
 <div class="row mt-5 justify-content-center">
+
 {% include card.html text="Info about Visas in Hainan." header="Hainan Visa"  btn-link="visa.html" %}
+
+{% include card.html text="How to get the Hainan tourist driving license." header="Tourist Driving License"  btn-link="driving-license.html" %}
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Приветствуем вас на веб-сайте Хайкоу Банана Хостела
-nav: <img src="assets/images/ru.bmp" alt="ru flag" >
+nav: <img src="assets/images/ru.bmp" alt="RU" >
 nav_order: 5
 meta_description: Мы предлагаем широкий выбор, от недорогих кроватей в общих комнатах (дорматориях)
 ---

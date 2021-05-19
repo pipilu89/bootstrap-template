@@ -41,6 +41,9 @@ layout: page
 
 {% include card.html text="Some blog articles about camping in Hainan." header="Camping in Hainan" btn-text="Camping" btn-link="camping-hainan.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1621077887/hainan/wanquan-camping/Wanquan_Hainan24_qordvn.jpg" %}
 
-{% include card.html text="Some blog articles about surfing in Hainan." header="Surfing in Hainan"  btn-link="surfing.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1618067907/hainan/surfing-hainan/sho_web_2_ghwcz8.jpg" %}
+{% include card.html text="Some articles about surfing in Hainan." header="Surfing in Hainan"  btn-link="surfing.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1618067907/hainan/surfing-hainan/sho_web_2_ghwcz8.jpg" %}
 
+</div>
+<div class="row mt-5 justify-content-center">
+{% include card.html text="Info about Visas in Hainan." header="Hainan Visa"  btn-link="visa.html" %}
 </div>

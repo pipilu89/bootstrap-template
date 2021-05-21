@@ -47,7 +47,7 @@ Opening times 办公时间
 Physical exam address (体检地址)：海南国际旅行卫生保健中心，滨海大道175号，68651113
 
 <details>
-  <summary class="p-3 mb-2 bg-info text-white">Requirements for adult family visas such as marriage visa:
+  <summary>Requirements for adult family visas such as marriage visa:
   </summary>
   <p>亲属团聚所需材料 (成人)
 
@@ -79,7 +79,7 @@ Physical exam address (体检地址)：海南国际旅行卫生保健中心，�
 </details>
 
 <details>
-<summary class="p-3 mb-2 bg-info text-white">Invitation Letter Example 邀请书 (item 7)</summary>
+<summary>Invitation Letter Example 邀请书 (item 7)</summary>
 
 <p>海口市公安局出入境管理支队：</p>
 

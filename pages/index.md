@@ -41,7 +41,7 @@ layout: page-full-width
 {% include card.html text="Some articles about surfing in Hainan." header="Surfing in Hainan"  btn-link="surfing.html" img="https://res.cloudinary.com/dfjb9p5ri/image/upload/ar_16:9,c_fill,g_auto,w_400/v1618067907/hainan/surfing-hainan/sho_web_2_ghwcz8.jpg" %}
 
 
-{% include card.html text="Info about Visas in Hainan." header="Hainan Visa"  btn-link="visa.html" %}
+{% include card.html text="Info about tourist, work, and family visas in Hainan." header="Hainan Visa"  btn-link="visa.html" %}
 
 {% include card.html text="How to get the Hainan tourist driving license." header="Tourist Driving License"  btn-link="driving-license.html" %}
 </div>

@@ -33,6 +33,10 @@ Residence Permit Window (Entry and Exit): A22, Tel: 68590746
 居留许可窗口（出入境)：A22，
 咨询电话：68590746
 
+PDF guide to Haikou work visas:
+- <a target="_blank" href="/assets/pdf/Guide-work-residence-permit-foreigner-Haikou.pdf">Guide to applying for a work & residence permit for foreigners coming to work in Haikou.pdf</a>
+
+
 ## Marriage/Family/Reunion Visa
 {:.mt-5}
 

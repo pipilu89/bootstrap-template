@@ -5,6 +5,8 @@ title: Visa
 ## Visa Free Arrival (30 days)
 {:.mt-5}
 
+Updated June 2024.
+
 It is now possible to come to Hainan without a visa! 
 Max duration of stay is 30 days.
 You must fly in and out of Hainan directly on an international flight (i.e. from a place outside of China). You cannot transit from other places in China. Hong-Kong is OK and counts as an international flight.

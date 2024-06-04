@@ -49,11 +49,20 @@ PDF guide to Haikou work visas:
 ## Marriage/Family/Reunion Visa
 {:.mt-5}
 
-The visa office for family/marriage related visas is in the west of Haikou city.
+The visa office for family/marriage related visas is same place as work visa: Haikou Citizen Tourism Center in Century Park, near Century Bridge.
+
+Address:
+Haikou Longhua District Binhai Park Road 
+No. 1 Citizen Visitor Center
+First floor government services
 
 Address：
-海口市公安局-出入境接待大厅
-海口市秀英区长滨东三街2号海口市公安局内。
+海口市龙华区滨海公园路
+1号市民游客中心
+一楼政务服务A21-23
+“外国人服务综合窗口”。
+咨询电话：18689885648
+咨询电话：68590746
 Opening times 办公时间
 9:00-12:00 13:30-17:00.
 

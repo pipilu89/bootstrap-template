@@ -38,7 +38,7 @@ Warning: We have heard about a taxi driver who will tell you that the Haikou Ban
  
 ### From Haikou (Meilan) airport (airport code HAK):
 
-The Haikou Meilan airport website has some useful info in the transport section [www.mlairport.com.](www.mlairport.com)
+The Haikou Meilan airport website has some useful info in the transport section [www.mlairport.com](www.mlairport.com)
 
 Haikou airport is around 40 minutes drive from the city centre and Haikou Banana Hostel. There are always many taxis waiting at the airport. Expect to pay about 70 RMB to get to the hostel. Make sure you bargain the price first, or you may end up paying too much.
 Public Bus from Haikou Airport:

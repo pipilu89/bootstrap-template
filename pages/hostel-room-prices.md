@@ -11,11 +11,11 @@ meta_description: Haikou Banana Hostel has different room types and prices to su
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906829/hostel-rooms/Single-room_bbigee.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
-  <dt class="col-sm-3">Dorm - 1 dorm bed in shared room, 50rmb </dt>
+  <dt class="col-sm-3">Dorm - 1 dorm bed in shared room, 45rmb </dt>
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906780/hostel-rooms/male_dorm_room_bafwht.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
-  <dt class="col-sm-3">Double room - 1 big bed, 120rmb.</dt>
+  <dt class="col-sm-3">Double room - 1 big bed, 128rmb.</dt>
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906884/hostel-rooms/double_room_xnmjo9.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
@@ -38,8 +38,6 @@ All of Haikou Banana Hostel's rooms include：
 - Flat screen TV (not including Dorm)
 - Window
 - 24 hour hot water.
-
-We have both Western and Chinese style toilets. If you require anything different to the above options please let us know and we'll do our best to accommodate your needs. 
 
 During some Chinese national holidays prices may be increased.
 

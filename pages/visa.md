@@ -2,13 +2,20 @@
 title: Visa
 ---
 
-## Tourist Visa on Arrival
+## Visa Free Arrival (30 days)
 {:.mt-5}
 
-It is possible to get a tourist visa on arrival in Hainan, however it is not quite so straight forward. In order to qualify you are supposed to book your holiday in advance through an approved Hainan travel agency.  Also, you need to be from the approved list of 59 countries. Furthermore, the visa is only valid in Hainan, you can't use it to travel to mainland China.
+It is now possible to come to Hainan without a visa! 
+Max duration of stay is 30 days.
+You must fly in and out of Hainan directly on an international flight (i.e. from a place outside of China). You cannot transit from other places in China. Hong-Kong is OK and counts as an international flight.
+You cannot travel to the Chinese mainland. If you wish to do so you can apply for a normal Chinese visa.
+Also, you need to be from the approved list of 59 countries.
+
+On arrival you may need to show evidence of return flight and itinerary such as hotel bookings.
 
 Here are some links that may help:
 
+- <http://en.explorehainan.com/en/plan/visas.shtml>{:target="_blank" rel="noreferrer"}
 - <https://www.sunnyhainan.com/hainan-island-visa-waiver-free-landing-visa-on-arrival-application/>{:target="_blank" rel="noreferrer"}
 
 ## Work Visa

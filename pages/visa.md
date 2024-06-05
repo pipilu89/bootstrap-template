@@ -17,6 +17,7 @@ On arrival you may need to show evidence of return flight and itinerary such as 
 
 Here are some links that may help:
 
+- <https://mp.weixin.qq.com/s/ONm3hazkXON8qwy5it9qVQ>{:target="_blank" rel="noreferrer"}
 - <http://en.explorehainan.com/en/plan/visas.shtml>{:target="_blank" rel="noreferrer"}
 - <https://www.sunnyhainan.com/hainan-island-visa-waiver-free-landing-visa-on-arrival-application/>{:target="_blank" rel="noreferrer"}
 

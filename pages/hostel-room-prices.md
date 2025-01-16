@@ -15,15 +15,19 @@ meta_description: Haikou Banana Hostel has different room types and prices to su
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906780/hostel-rooms/male_dorm_room_bafwht.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
-  <dt class="col-sm-3">Double room - 1 big bed, 128rmb.</dt>
+  <dt class="col-sm-3">Small Double room - 1 big bed, 108rmb.</dt>
   <dd class="col-sm-9">
-    <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906884/hostel-rooms/double_room_xnmjo9.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
+    <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906884/hostel-rooms/double_room_xnmjo9.jpg" alt="small double room" class="figure-img img-fluid rounded float-left">
+  </dd>
+  <dt class="col-sm-3">Large Double room - 1 big bed, 128rmb.</dt>
+  <dd class="col-sm-9">
+    <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906884/hostel-rooms/double_room_xnmjo9.jpg" alt="large double room" class="figure-img img-fluid rounded float-left">
   </dd>
   <dt class="col-sm-3">Twin room - 2 single beds, 120rmb.</dt>
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
-  <dt class="col-sm-3">Triple room - 3 single beds, 168rmb.</dt>
+  <dt class="col-sm-3">4 person private room - 2 bunk beds, 168rmb.</dt>
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906936/hostel-rooms/triple_room_p1xvm9.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
